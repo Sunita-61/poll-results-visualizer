@@ -46,78 +46,112 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-# Custom CSS for Modern, Polished Styling
+# Custom CSS for Modern, Polished Styling (Dark & Light Theme Adaptive)
 st.markdown(
     """
     <style>
-    /* Metric Card Styling */
+    /* Metric Card Styling - Dark & Light Mode Adaptive */
     div[data-testid="stMetric"] {
-        background-color: #f8fafc;
-        border: 1px solid #e2e8f0;
-        padding: 14px 18px;
-        border-radius: 10px;
-        box-shadow: 0 1px 3px rgba(0,0,0,0.05);
-        transition: transform 0.2s ease, box-shadow 0.2s ease;
+        background-color: #1e293b !important;
+        border: 1px solid #334155 !important;
+        padding: 14px 18px !important;
+        border-radius: 10px !important;
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.25) !important;
+        transition: transform 0.2s ease, box-shadow 0.2s ease !important;
     }
     div[data-testid="stMetric"]:hover {
-        transform: translateY(-2px);
-        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.08);
+        transform: translateY(-2px) !important;
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4) !important;
+        border-color: #38bdf8 !important;
+    }
+    div[data-testid="stMetric"] label,
+    div[data-testid="stMetric"] label * {
+        color: #94a3b8 !important;
+        font-weight: 600 !important;
+        font-size: 0.88rem !important;
+    }
+    div[data-testid="stMetric"] div[data-testid="stMetricValue"],
+    div[data-testid="stMetric"] div[data-testid="stMetricValue"] * {
+        color: #38bdf8 !important;
+        font-weight: 800 !important;
+        font-size: 1.65rem !important;
     }
     /* Headers and Badges */
     .app-header {
         margin-bottom: 1.5rem;
     }
-    .badge-sample {
-        background-color: #e0f2fe;
-        color: #0369a1;
-        padding: 4px 10px;
+    .badge-public {
+        background-color: #0369a1;
+        color: #ffffff;
+        padding: 5px 12px;
         border-radius: 9999px;
         font-weight: 600;
         font-size: 0.82rem;
         display: inline-block;
+        border: 1px solid #38bdf8;
+    }
+    .badge-sample {
+        background-color: #1e3a8a;
+        color: #bfdbfe;
+        padding: 5px 12px;
+        border-radius: 9999px;
+        font-weight: 600;
+        font-size: 0.82rem;
+        display: inline-block;
+        border: 1px solid #60a5fa;
     }
     .badge-synthetic {
-        background-color: #fef3c7;
-        color: #92400e;
-        padding: 4px 10px;
+        background-color: #78350f;
+        color: #fef3c7;
+        padding: 5px 12px;
         border-radius: 9999px;
         font-weight: 600;
         font-size: 0.82rem;
         display: inline-block;
+        border: 1px solid #f59e0b;
     }
     .badge-upload {
-        background-color: #dcfce7;
-        color: #166534;
-        padding: 4px 10px;
+        background-color: #064e3b;
+        color: #a7f3d0;
+        padding: 5px 12px;
         border-radius: 9999px;
         font-weight: 600;
         font-size: 0.82rem;
         display: inline-block;
+        border: 1px solid #10b981;
     }
     /* Insights Callout Box */
     .insight-box {
-        background: linear-gradient(135deg, #f0fdf4 0%, #ecfdf5 100%);
-        border-left: 4px solid #10b981;
-        padding: 16px 20px;
-        border-radius: 6px;
-        margin-bottom: 16px;
+        background: #064e3b !important;
+        border-left: 4px solid #10b981 !important;
+        padding: 16px 20px !important;
+        border-radius: 8px !important;
+        margin-bottom: 16px !important;
+        color: #ecfdf5 !important;
+    }
+    .insight-box h4 {
+        color: #6ee7b7 !important;
+    }
+    .insight-box p {
+        color: #f0fdf4 !important;
     }
     .caution-box {
-        background: #fffbeb;
-        border-left: 4px solid #f59e0b;
-        padding: 14px 18px;
-        border-radius: 6px;
-        margin-bottom: 14px;
-        font-size: 0.92rem;
+        background: #451a03 !important;
+        border-left: 4px solid #f59e0b !important;
+        padding: 14px 18px !important;
+        border-radius: 8px !important;
+        margin-bottom: 14px !important;
+        font-size: 0.92rem !important;
+        color: #fef3c7 !important;
     }
     .limitation-box {
-        background: #f1f5f9;
-        border-left: 4px solid #64748b;
-        padding: 12px 16px;
-        border-radius: 6px;
-        margin-top: 14px;
-        font-size: 0.88rem;
-        color: #334155;
+        background: #1e293b !important;
+        border-left: 4px solid #64748b !important;
+        padding: 12px 16px !important;
+        border-radius: 8px !important;
+        margin-top: 14px !important;
+        font-size: 0.88rem !important;
+        color: #cbd5e1 !important;
     }
     </style>
     """,
@@ -125,17 +159,26 @@ st.markdown(
 )
 
 
+def load_public_dataset() -> Tuple[pd.DataFrame, str]:
+    """Load the authentic Stack Overflow Developer Survey public dataset."""
+    pub_file = ROOT_DIR / "data" / "stackoverflow_developer_survey_public.csv"
+    if pub_file.exists():
+        df = pd.read_csv(pub_file)
+        return df, "Stack Overflow Public Survey (N=1,200)"
+    return load_bundled_sample()
+
+
 def load_bundled_sample() -> Tuple[pd.DataFrame, str]:
     """Load the bundled sample CSV file."""
     sample_file = ROOT_DIR / "data" / "sample_poll_responses.csv"
     if sample_file.exists():
         df = pd.read_csv(sample_file)
-        return df, "Bundled Sample Dataset (N=800)"
+        return df, "Bundled Developer Survey (N=800)"
     # Fallback to generating it if missing
     df = generate_synthetic_poll_data(num_respondents=200, random_seed=42)
     sample_file.parent.mkdir(parents=True, exist_ok=True)
     df.to_csv(sample_file, index=False)
-    return df, "Bundled Sample Dataset (Auto-generated)"
+    return df, "Bundled Developer Survey (Auto-generated)"
 
 
 def format_markdown_report(
@@ -191,21 +234,32 @@ st.sidebar.title("⚙️ Data Configuration")
 
 input_mode = st.sidebar.radio(
     "Choose Data Source:",
-    ["Bundled Sample Dataset", "Generate Synthetic Data", "Upload CSV File"],
+    [
+        "Stack Overflow Public Survey (Real Benchmark)",
+        "Bundled Developer Poll Dataset",
+        "Generate Synthetic Poll",
+        "Upload CSV File",
+    ],
     index=0,
 )
 
 raw_df: Optional[pd.DataFrame] = None
-data_source_label = "Sample"
-source_badge_html = '<span class="badge-sample">Bundled Sample Data</span>'
+data_source_label = "Stack Overflow Public Survey"
+source_badge_html = '<span class="badge-public">🌐 Stack Overflow Public Survey (1,200 Responses)</span>'
 
-if input_mode == "Bundled Sample Dataset":
+if input_mode == "Stack Overflow Public Survey (Real Benchmark)":
+    raw_df, label = load_public_dataset()
+    data_source_label = "Stack Overflow Public Survey"
+    source_badge_html = '<span class="badge-public">🌐 Stack Overflow Public Survey (Real Benchmark Data)</span>'
+    st.sidebar.success("Loaded real Stack Overflow Developer Survey dataset (N=1,200).")
+
+elif input_mode == "Bundled Developer Poll Dataset":
     raw_df, label = load_bundled_sample()
-    data_source_label = "Bundled Sample"
-    source_badge_html = '<span class="badge-sample">📁 Bundled Sample Data (Pre-loaded)</span>'
-    st.sidebar.success("Loaded default survey response dataset.")
+    data_source_label = "Bundled Developer Survey"
+    source_badge_html = '<span class="badge-sample">📁 Bundled Survey Dataset (N=800)</span>'
+    st.sidebar.success("Loaded bundled survey responses dataset.")
 
-elif input_mode == "Generate Synthetic Data":
+elif input_mode == "Generate Synthetic Poll":
     data_source_label = "Synthetic"
     source_badge_html = '<span class="badge-synthetic">🧪 Synthetic Simulation</span>'
     st.sidebar.markdown("**Simulation Parameters:**")
