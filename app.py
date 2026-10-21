@@ -610,28 +610,46 @@ with tab_timeline:
     time_freq = st.radio("Aggregation Interval:", ["Daily ('D')", "Weekly ('W')"], horizontal=True)
     freq_code = "D" if "Daily" in time_freq else "W"
 
-    timeline_df = calculate_submission_timeline(filtered_df, active_q_tl, freq=freq_code)
+    try:
+        timeline_df = calculate_submission_timeline(filtered_df, active_q_tl, freq=freq_code)
+    except Exception as e:
+        timeline_df = pd.DataFrame(columns=["date", "submission_count"])
+        st.warning(f"Unable to group submissions by interval: {str(e)}")
 
-    if not timeline_df.empty and len(timeline_df) > 1:
-        fig_time = px.area(
-            timeline_df,
-            x="date",
-            y="submission_count",
-            title=f"Submission Trend ({'Daily' if freq_code == 'D' else 'Weekly'})",
-            labels={"date": "Submission Date", "submission_count": "Responses Logged"},
-            color_discrete_sequence=["#0284c7"],
-        )
-        fig_time.update_traces(mode="lines+markers", marker=dict(size=6))
-        fig_time.update_layout(height=400, margin=dict(l=20, r=20, t=50, b=40))
-        st.plotly_chart(fig_time, use_container_width=True)
+    if not timeline_df.empty:
+        if len(timeline_df) == 1:
+            fig_time = px.bar(
+                timeline_df,
+                x="date",
+                y="submission_count",
+                text="submission_count",
+                title=f"Submission Volume ({'Daily' if freq_code == 'D' else 'Weekly'}) — Single Period",
+                labels={"date": "Submission Date", "submission_count": "Responses Logged"},
+                color_discrete_sequence=["#0284c7"],
+            )
+            fig_time.update_traces(textposition="outside")
+            fig_time.update_layout(height=380, margin=dict(l=20, r=20, t=50, b=40))
+            st.plotly_chart(fig_time, use_container_width=True)
+        else:
+            fig_time = px.area(
+                timeline_df,
+                x="date",
+                y="submission_count",
+                title=f"Submission Trend ({'Daily' if freq_code == 'D' else 'Weekly'})",
+                labels={"date": "Submission Date", "submission_count": "Responses Logged"},
+                color_discrete_sequence=["#0284c7"],
+            )
+            fig_time.update_traces(mode="lines+markers", marker=dict(size=6))
+            fig_time.update_layout(height=400, margin=dict(l=20, r=20, t=50, b=40))
+            st.plotly_chart(fig_time, use_container_width=True)
 
         # Quick statistics
         tc1, tc2, tc3 = st.columns(3)
-        tc1.metric("Peak Single-Day Responses", int(timeline_df["submission_count"].max()))
+        tc1.metric("Peak Responses in Period", int(timeline_df["submission_count"].max()))
         tc2.metric("Average Responses / Interval", f"{timeline_df['submission_count'].mean():.1f}")
         tc3.metric("Total Intervals Observed", len(timeline_df))
     else:
-        st.info("Insufficient timestamp data or single-interval responses available for time series visualization.")
+        st.info("No valid timestamp data available in this dataset for time series visualization.")
 
 # -------------------------------------------------------------
 # TAB 4: AUTOMATED INSIGHTS

@@ -127,11 +127,16 @@ def test_calculate_segment_breakdown(sample_test_df: pd.DataFrame) -> None:
 
 
 def test_calculate_submission_timeline(sample_test_df: pd.DataFrame) -> None:
-    """Test timeline daily grouping."""
-    timeline = calculate_submission_timeline(sample_test_df, question="Preferred Language?", freq="D")
-    assert len(timeline) == 3
+    """Test timeline daily and weekly grouping."""
+    timeline_d = calculate_submission_timeline(sample_test_df, question="Preferred Language?", freq="D")
+    assert len(timeline_d) == 3
     # Day 1: 2 responses, Day 2: 2 responses, Day 3: 2 responses
-    assert list(timeline["submission_count"]) == [2, 2, 2]
+    assert list(timeline_d["submission_count"]) == [2, 2, 2]
+
+    # Test weekly grouping (Pandas 3.0 non-fixed frequency safe)
+    timeline_w = calculate_submission_timeline(sample_test_df, question="Preferred Language?", freq="W")
+    assert len(timeline_w) >= 1
+    assert timeline_w["submission_count"].sum() == 6
 
 
 def test_generate_summary_table(sample_test_df: pd.DataFrame) -> None:

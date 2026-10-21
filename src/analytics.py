@@ -169,8 +169,17 @@ def calculate_submission_timeline(
     if dates.empty:
         return pd.DataFrame(columns=cols)
 
-    # Group by date period
-    grouped = dates.dt.floor(freq).value_counts().sort_index().reset_index()
+    # Group by date period safely across both fixed and non-fixed frequencies (e.g. Pandas 3.0)
+    try:
+        if str(freq).upper().startswith("W"):
+            period_dates = dates.dt.to_period("W").dt.start_time
+        else:
+            period_dates = dates.dt.to_period("D").dt.start_time
+    except Exception:
+        # Fallback to direct date flooring or daily periods
+        period_dates = dates.dt.floor("D")
+
+    grouped = period_dates.value_counts().sort_index().reset_index()
     grouped.columns = ["date", "submission_count"]
     grouped["date"] = grouped["date"].dt.strftime("%Y-%m-%d")
     return grouped
