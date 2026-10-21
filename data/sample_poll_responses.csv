@@ -1,0 +1,801 @@
+response_id,submitted_at,poll_question,answer,region,age_group
+RESP_0001,2026-03-20 09:28:34,Which programming language do you prefer?,TypeScript,Asia-Pacific,25-34
+RESP_0001,2026-03-20 09:28:34,Which learning method do you prefer?,Hands-on Projects,Asia-Pacific,25-34
+RESP_0001,2026-03-20 09:28:34,Which development platform do you use most?,JupyterLab / Notebooks,Asia-Pacific,25-34
+RESP_0001,2026-03-20 09:28:34,What is your primary career goal in tech?,Cloud & DevOps Engineer,Asia-Pacific,25-34
+RESP_0002,2026-02-17 18:41:40,Which programming language do you prefer?,JavaScript,Asia-Pacific,18-24
+RESP_0002,2026-02-17 18:41:40,Which learning method do you prefer?,Interactive Coding Platforms,Asia-Pacific,18-24
+RESP_0002,2026-02-17 18:41:40,Which development platform do you use most?,JetBrains IDEs,Asia-Pacific,18-24
+RESP_0002,2026-02-17 18:41:40,What is your primary career goal in tech?,Cybersecurity Specialist,Asia-Pacific,18-24
+RESP_0003,2026-02-25 14:15:09,Which programming language do you prefer?,Python,Europe,18-24
+RESP_0003,2026-02-25 14:15:09,Which learning method do you prefer?,Reading Documentation & Books,Europe,18-24
+RESP_0003,2026-02-25 14:15:09,Which development platform do you use most?,JetBrains IDEs,Europe,18-24
+RESP_0003,2026-02-25 14:15:09,What is your primary career goal in tech?,Cloud & DevOps Engineer,Europe,18-24
+RESP_0004,2026-03-22 23:37:04,Which programming language do you prefer?,TypeScript,Europe,55+
+RESP_0004,2026-03-22 23:37:04,Which learning method do you prefer?,Hands-on Projects,Europe,55+
+RESP_0004,2026-03-22 23:37:04,Which development platform do you use most?,VS Code,Europe,55+
+RESP_0004,2026-03-22 23:37:04,What is your primary career goal in tech?,Data Science & AI Engineer,Europe,55+
+RESP_0005,2026-03-11 20:34:18,Which programming language do you prefer?,Rust,North America,25-34
+RESP_0005,2026-03-11 20:34:18,Which learning method do you prefer?,Hands-on Projects,North America,25-34
+RESP_0005,2026-03-11 20:34:18,Which development platform do you use most?,VS Code,North America,25-34
+RESP_0005,2026-03-11 20:34:18,What is your primary career goal in tech?,Full-Stack Web Developer,North America,25-34
+RESP_0006,2026-02-19 16:16:07,Which programming language do you prefer?,Python,North America,18-24
+RESP_0006,2026-02-19 16:16:07,Which learning method do you prefer?,Video Courses & Tutorials,North America,18-24
+RESP_0006,2026-02-19 16:16:07,Which development platform do you use most?,VS Code,North America,18-24
+RESP_0006,2026-02-19 16:16:07,What is your primary career goal in tech?,Cybersecurity Specialist,North America,18-24
+RESP_0007,2026-03-18 10:04:03,Which programming language do you prefer?,Go,Asia-Pacific,18-24
+RESP_0007,2026-03-18 10:04:03,Which learning method do you prefer?,Hands-on Projects,Asia-Pacific,18-24
+RESP_0007,2026-03-18 10:04:03,Which development platform do you use most?,VS Code,Asia-Pacific,18-24
+RESP_0007,2026-03-18 10:04:03,What is your primary career goal in tech?,Cloud & DevOps Engineer,Asia-Pacific,18-24
+RESP_0008,2026-01-15 13:15:07,Which programming language do you prefer?,Go,North America,18-24
+RESP_0008,2026-01-15 13:15:07,Which learning method do you prefer?,Video Courses & Tutorials,North America,18-24
+RESP_0008,2026-01-15 13:15:07,Which development platform do you use most?,JetBrains IDEs,North America,18-24
+RESP_0008,2026-01-15 13:15:07,What is your primary career goal in tech?,Cloud & DevOps Engineer,North America,18-24
+RESP_0009,2026-01-25 11:38:04,Which programming language do you prefer?,Python,Europe,25-34
+RESP_0009,2026-01-25 11:38:04,Which learning method do you prefer?,Video Courses & Tutorials,Europe,25-34
+RESP_0009,2026-01-25 11:38:04,Which development platform do you use most?,VS Code,Europe,25-34
+RESP_0009,2026-01-25 11:38:04,What is your primary career goal in tech?,Full-Stack Web Developer,Europe,25-34
+RESP_0010,2026-02-25 12:26:34,Which programming language do you prefer?,JavaScript,Asia-Pacific,25-34
+RESP_0010,2026-02-25 12:26:34,Which learning method do you prefer?,Hands-on Projects,Asia-Pacific,25-34
+RESP_0010,2026-02-25 12:26:34,Which development platform do you use most?,VS Code,Asia-Pacific,25-34
+RESP_0010,2026-02-25 12:26:34,What is your primary career goal in tech?,Full-Stack Web Developer,Asia-Pacific,25-34
+RESP_0011,2026-03-20 00:07:31,Which programming language do you prefer?,Python,North America,25-34
+RESP_0011,2026-03-20 00:07:31,Which learning method do you prefer?,Hands-on Projects,North America,25-34
+RESP_0011,2026-03-20 00:07:31,Which development platform do you use most?,VS Code,North America,25-34
+RESP_0011,2026-03-20 00:07:31,What is your primary career goal in tech?,Data Science & AI Engineer,North America,25-34
+RESP_0012,2026-03-14 19:01:00,Which programming language do you prefer?,TypeScript,Asia-Pacific,25-34
+RESP_0012,2026-03-14 19:01:00,Which learning method do you prefer?,Hands-on Projects,Asia-Pacific,25-34
+RESP_0012,2026-03-14 19:01:00,Which development platform do you use most?,Neovim / Vim,Asia-Pacific,25-34
+RESP_0012,2026-03-14 19:01:00,What is your primary career goal in tech?,Data Science & AI Engineer,Asia-Pacific,25-34
+RESP_0013,2026-03-10 04:14:48,Which programming language do you prefer?,JavaScript,North America,18-24
+RESP_0013,2026-03-10 04:14:48,Which learning method do you prefer?,Hands-on Projects,North America,18-24
+RESP_0013,2026-03-10 04:14:48,Which development platform do you use most?,VS Code,North America,18-24
+RESP_0013,2026-03-10 04:14:48,What is your primary career goal in tech?,Data Science & AI Engineer,North America,18-24
+RESP_0014,2026-02-12 13:50:17,Which programming language do you prefer?,Python,Asia-Pacific,25-34
+RESP_0014,2026-02-12 13:50:17,Which learning method do you prefer?,Video Courses & Tutorials,Asia-Pacific,25-34
+RESP_0014,2026-02-12 13:50:17,Which development platform do you use most?,VS Code,Asia-Pacific,25-34
+RESP_0014,2026-02-12 13:50:17,What is your primary career goal in tech?,Data Science & AI Engineer,Asia-Pacific,25-34
+RESP_0015,2026-03-24 03:26:42,Which programming language do you prefer?,TypeScript,North America,45-54
+RESP_0015,2026-03-24 03:26:42,Which learning method do you prefer?,Hands-on Projects,North America,45-54
+RESP_0015,2026-03-24 03:26:42,Which development platform do you use most?,JupyterLab / Notebooks,North America,45-54
+RESP_0015,2026-03-24 03:26:42,What is your primary career goal in tech?,Cloud & DevOps Engineer,North America,45-54
+RESP_0016,2026-02-04 10:02:05,Which programming language do you prefer?,Python,Asia-Pacific,25-34
+RESP_0016,2026-02-04 10:02:05,Which learning method do you prefer?,Interactive Coding Platforms,Asia-Pacific,25-34
+RESP_0016,2026-02-04 10:02:05,Which development platform do you use most?,VS Code,Asia-Pacific,25-34
+RESP_0016,2026-02-04 10:02:05,What is your primary career goal in tech?,Data Science & AI Engineer,Asia-Pacific,25-34
+RESP_0017,2026-01-28 06:11:27,Which programming language do you prefer?,Go,Europe,25-34
+RESP_0017,2026-01-28 06:11:27,Which learning method do you prefer?,Reading Documentation & Books,Europe,25-34
+RESP_0017,2026-01-28 06:11:27,Which development platform do you use most?,JetBrains IDEs,Europe,25-34
+RESP_0017,2026-01-28 06:11:27,What is your primary career goal in tech?,Full-Stack Web Developer,Europe,25-34
+RESP_0018,2026-03-04 17:43:25,Which programming language do you prefer?,Python,Asia-Pacific,25-34
+RESP_0018,2026-03-04 17:43:25,Which learning method do you prefer?,Hands-on Projects,Asia-Pacific,25-34
+RESP_0018,2026-03-04 17:43:25,Which development platform do you use most?,VS Code,Asia-Pacific,25-34
+RESP_0018,2026-03-04 17:43:25,What is your primary career goal in tech?,Full-Stack Web Developer,Asia-Pacific,25-34
+RESP_0019,2026-01-22 18:07:31,Which programming language do you prefer?,JavaScript,Europe,18-24
+RESP_0019,2026-01-22 18:07:31,Which learning method do you prefer?,Hands-on Projects,Europe,18-24
+RESP_0019,2026-01-22 18:07:31,Which development platform do you use most?,JupyterLab / Notebooks,Europe,18-24
+RESP_0019,2026-01-22 18:07:31,What is your primary career goal in tech?,Full-Stack Web Developer,Europe,18-24
+RESP_0020,2026-01-16 17:02:49,Which programming language do you prefer?,Rust,Europe,25-34
+RESP_0020,2026-01-16 17:02:49,Which learning method do you prefer?,Video Courses & Tutorials,Europe,25-34
+RESP_0020,2026-01-16 17:02:49,Which development platform do you use most?,Neovim / Vim,Europe,25-34
+RESP_0020,2026-01-16 17:02:49,What is your primary career goal in tech?,Data Science & AI Engineer,Europe,25-34
+RESP_0021,2026-03-26 08:05:15,Which programming language do you prefer?,JavaScript,Europe,25-34
+RESP_0021,2026-03-26 08:05:15,Which learning method do you prefer?,Video Courses & Tutorials,Europe,25-34
+RESP_0021,2026-03-26 08:05:15,Which development platform do you use most?,VS Code,Europe,25-34
+RESP_0021,2026-03-26 08:05:15,What is your primary career goal in tech?,Full-Stack Web Developer,Europe,25-34
+RESP_0022,2026-01-16 14:54:06,Which programming language do you prefer?,Go,Europe,25-34
+RESP_0022,2026-01-16 14:54:06,Which learning method do you prefer?,Interactive Coding Platforms,Europe,25-34
+RESP_0022,2026-01-16 14:54:06,Which development platform do you use most?,VS Code,Europe,25-34
+RESP_0022,2026-01-16 14:54:06,What is your primary career goal in tech?,Full-Stack Web Developer,Europe,25-34
+RESP_0023,2026-02-05 02:13:14,Which programming language do you prefer?,TypeScript,North America,25-34
+RESP_0023,2026-02-05 02:13:14,Which learning method do you prefer?,Reading Documentation & Books,North America,25-34
+RESP_0023,2026-02-05 02:13:14,Which development platform do you use most?,Neovim / Vim,North America,25-34
+RESP_0023,2026-02-05 02:13:14,What is your primary career goal in tech?,Data Science & AI Engineer,North America,25-34
+RESP_0024,2026-01-17 19:20:33,Which programming language do you prefer?,JavaScript,Latin America,18-24
+RESP_0024,2026-01-17 19:20:33,Which learning method do you prefer?,Hands-on Projects,Latin America,18-24
+RESP_0024,2026-01-17 19:20:33,Which development platform do you use most?,Neovim / Vim,Latin America,18-24
+RESP_0024,2026-01-17 19:20:33,What is your primary career goal in tech?,Cybersecurity Specialist,Latin America,18-24
+RESP_0025,2026-02-05 19:39:07,Which programming language do you prefer?,JavaScript,Europe,45-54
+RESP_0025,2026-02-05 19:39:07,Which learning method do you prefer?,Hands-on Projects,Europe,45-54
+RESP_0025,2026-02-05 19:39:07,Which development platform do you use most?,JupyterLab / Notebooks,Europe,45-54
+RESP_0025,2026-02-05 19:39:07,What is your primary career goal in tech?,Data Science & AI Engineer,Europe,45-54
+RESP_0026,2026-03-30 10:16:33,Which programming language do you prefer?,Java,North America,25-34
+RESP_0026,2026-03-30 10:16:33,Which learning method do you prefer?,Reading Documentation & Books,North America,25-34
+RESP_0026,2026-03-30 10:16:33,Which development platform do you use most?,Cloud IDEs / GitHub Codespaces,North America,25-34
+RESP_0026,2026-03-30 10:16:33,What is your primary career goal in tech?,Cybersecurity Specialist,North America,25-34
+RESP_0027,2026-03-13 21:37:20,Which programming language do you prefer?,TypeScript,Europe,18-24
+RESP_0027,2026-03-13 21:37:20,Which learning method do you prefer?,Hands-on Projects,Europe,18-24
+RESP_0027,2026-03-13 21:37:20,Which development platform do you use most?,VS Code,Europe,18-24
+RESP_0027,2026-03-13 21:37:20,What is your primary career goal in tech?,Cloud & DevOps Engineer,Europe,18-24
+RESP_0028,2026-02-02 01:44:49,Which programming language do you prefer?,Python,North America,45-54
+RESP_0028,2026-02-02 01:44:49,Which learning method do you prefer?,Reading Documentation & Books,North America,45-54
+RESP_0028,2026-02-02 01:44:49,Which development platform do you use most?,VS Code,North America,45-54
+RESP_0028,2026-02-02 01:44:49,What is your primary career goal in tech?,Data Science & AI Engineer,North America,45-54
+RESP_0029,2026-01-29 17:34:56,Which programming language do you prefer?,Python,Asia-Pacific,35-44
+RESP_0029,2026-01-29 17:34:56,Which learning method do you prefer?,Reading Documentation & Books,Asia-Pacific,35-44
+RESP_0029,2026-01-29 17:34:56,Which development platform do you use most?,JupyterLab / Notebooks,Asia-Pacific,35-44
+RESP_0029,2026-01-29 17:34:56,What is your primary career goal in tech?,Full-Stack Web Developer,Asia-Pacific,35-44
+RESP_0030,2026-02-01 05:22:51,Which programming language do you prefer?,Python,North America,18-24
+RESP_0030,2026-02-01 05:22:51,Which learning method do you prefer?,Video Courses & Tutorials,North America,18-24
+RESP_0030,2026-02-01 05:22:51,Which development platform do you use most?,VS Code,North America,18-24
+RESP_0030,2026-02-01 05:22:51,What is your primary career goal in tech?,Full-Stack Web Developer,North America,18-24
+RESP_0031,2026-01-29 23:35:46,Which programming language do you prefer?,Go,Asia-Pacific,25-34
+RESP_0031,2026-01-29 23:35:46,Which learning method do you prefer?,Reading Documentation & Books,Asia-Pacific,25-34
+RESP_0031,2026-01-29 23:35:46,Which development platform do you use most?,JetBrains IDEs,Asia-Pacific,25-34
+RESP_0031,2026-01-29 23:35:46,What is your primary career goal in tech?,Data Science & AI Engineer,Asia-Pacific,25-34
+RESP_0032,2026-02-13 19:38:26,Which programming language do you prefer?,Python,North America,45-54
+RESP_0032,2026-02-13 19:38:26,Which learning method do you prefer?,Video Courses & Tutorials,North America,45-54
+RESP_0032,2026-02-13 19:38:26,Which development platform do you use most?,JetBrains IDEs,North America,45-54
+RESP_0032,2026-02-13 19:38:26,What is your primary career goal in tech?,Mobile App Developer,North America,45-54
+RESP_0033,2026-01-16 20:44:49,Which programming language do you prefer?,JavaScript,Europe,45-54
+RESP_0033,2026-01-16 20:44:49,Which learning method do you prefer?,Video Courses & Tutorials,Europe,45-54
+RESP_0033,2026-01-16 20:44:49,Which development platform do you use most?,VS Code,Europe,45-54
+RESP_0033,2026-01-16 20:44:49,What is your primary career goal in tech?,Data Science & AI Engineer,Europe,45-54
+RESP_0034,2026-02-28 16:52:35,Which programming language do you prefer?,Java,Europe,45-54
+RESP_0034,2026-02-28 16:52:35,Which learning method do you prefer?,Reading Documentation & Books,Europe,45-54
+RESP_0034,2026-02-28 16:52:35,Which development platform do you use most?,VS Code,Europe,45-54
+RESP_0034,2026-02-28 16:52:35,What is your primary career goal in tech?,Cloud & DevOps Engineer,Europe,45-54
+RESP_0035,2026-03-18 04:58:17,Which programming language do you prefer?,Go,North America,18-24
+RESP_0035,2026-03-18 04:58:17,Which learning method do you prefer?,Hands-on Projects,North America,18-24
+RESP_0035,2026-03-18 04:58:17,Which development platform do you use most?,JetBrains IDEs,North America,18-24
+RESP_0035,2026-03-18 04:58:17,What is your primary career goal in tech?,Full-Stack Web Developer,North America,18-24
+RESP_0036,2026-02-14 22:37:43,Which programming language do you prefer?,JavaScript,Latin America,25-34
+RESP_0036,2026-02-14 22:37:43,Which learning method do you prefer?,Video Courses & Tutorials,Latin America,25-34
+RESP_0036,2026-02-14 22:37:43,Which development platform do you use most?,JetBrains IDEs,Latin America,25-34
+RESP_0036,2026-02-14 22:37:43,What is your primary career goal in tech?,Cybersecurity Specialist,Latin America,25-34
+RESP_0037,2026-02-01 17:59:32,Which programming language do you prefer?,TypeScript,Europe,18-24
+RESP_0037,2026-02-01 17:59:32,Which learning method do you prefer?,Reading Documentation & Books,Europe,18-24
+RESP_0037,2026-02-01 17:59:32,Which development platform do you use most?,VS Code,Europe,18-24
+RESP_0037,2026-02-01 17:59:32,What is your primary career goal in tech?,Data Science & AI Engineer,Europe,18-24
+RESP_0038,2026-03-17 20:23:43,Which programming language do you prefer?,Python,Asia-Pacific,18-24
+RESP_0038,2026-03-17 20:23:43,Which learning method do you prefer?,Hands-on Projects,Asia-Pacific,18-24
+RESP_0038,2026-03-17 20:23:43,Which development platform do you use most?,JupyterLab / Notebooks,Asia-Pacific,18-24
+RESP_0038,2026-03-17 20:23:43,What is your primary career goal in tech?,Data Science & AI Engineer,Asia-Pacific,18-24
+RESP_0039,2026-01-23 15:52:55,Which programming language do you prefer?,Python,Europe,18-24
+RESP_0039,2026-01-23 15:52:55,Which learning method do you prefer?,Hands-on Projects,Europe,18-24
+RESP_0039,2026-01-23 15:52:55,Which development platform do you use most?,VS Code,Europe,18-24
+RESP_0039,2026-01-23 15:52:55,What is your primary career goal in tech?,Data Science & AI Engineer,Europe,18-24
+RESP_0040,2026-02-13 12:32:05,Which programming language do you prefer?,Python,Asia-Pacific,25-34
+RESP_0040,2026-02-13 12:32:05,Which learning method do you prefer?,Video Courses & Tutorials,Asia-Pacific,25-34
+RESP_0040,2026-02-13 12:32:05,Which development platform do you use most?,Cloud IDEs / GitHub Codespaces,Asia-Pacific,25-34
+RESP_0040,2026-02-13 12:32:05,What is your primary career goal in tech?,Cybersecurity Specialist,Asia-Pacific,25-34
+RESP_0041,2026-02-01 18:08:26,Which programming language do you prefer?,Python,North America,18-24
+RESP_0041,2026-02-01 18:08:26,Which learning method do you prefer?,Video Courses & Tutorials,North America,18-24
+RESP_0041,2026-02-01 18:08:26,Which development platform do you use most?,VS Code,North America,18-24
+RESP_0041,2026-02-01 18:08:26,What is your primary career goal in tech?,Data Science & AI Engineer,North America,18-24
+RESP_0042,2026-01-22 15:00:33,Which programming language do you prefer?,Go,Europe,25-34
+RESP_0042,2026-01-22 15:00:33,Which learning method do you prefer?,Hands-on Projects,Europe,25-34
+RESP_0042,2026-01-22 15:00:33,Which development platform do you use most?,JupyterLab / Notebooks,Europe,25-34
+RESP_0042,2026-01-22 15:00:33,What is your primary career goal in tech?,Data Science & AI Engineer,Europe,25-34
+RESP_0043,2026-03-29 11:13:38,Which programming language do you prefer?,Go,Latin America,45-54
+RESP_0043,2026-03-29 11:13:38,Which learning method do you prefer?,Reading Documentation & Books,Latin America,45-54
+RESP_0043,2026-03-29 11:13:38,Which development platform do you use most?,JetBrains IDEs,Latin America,45-54
+RESP_0043,2026-03-29 11:13:38,What is your primary career goal in tech?,Cloud & DevOps Engineer,Latin America,45-54
+RESP_0044,2026-02-22 13:36:04,Which programming language do you prefer?,Go,North America,25-34
+RESP_0044,2026-02-22 13:36:04,Which learning method do you prefer?,Video Courses & Tutorials,North America,25-34
+RESP_0044,2026-02-22 13:36:04,Which development platform do you use most?,VS Code,North America,25-34
+RESP_0044,2026-02-22 13:36:04,What is your primary career goal in tech?,Cloud & DevOps Engineer,North America,25-34
+RESP_0045,2026-02-19 20:10:44,Which programming language do you prefer?,JavaScript,North America,18-24
+RESP_0045,2026-02-19 20:10:44,Which learning method do you prefer?,Hands-on Projects,North America,18-24
+RESP_0045,2026-02-19 20:10:44,Which development platform do you use most?,VS Code,North America,18-24
+RESP_0045,2026-02-19 20:10:44,What is your primary career goal in tech?,Full-Stack Web Developer,North America,18-24
+RESP_0046,2026-03-07 10:20:16,Which programming language do you prefer?,Python,Europe,18-24
+RESP_0046,2026-03-07 10:20:16,Which learning method do you prefer?,Mentorship & Study Groups,Europe,18-24
+RESP_0046,2026-03-07 10:20:16,Which development platform do you use most?,Cloud IDEs / GitHub Codespaces,Europe,18-24
+RESP_0046,2026-03-07 10:20:16,What is your primary career goal in tech?,Full-Stack Web Developer,Europe,18-24
+RESP_0047,2026-03-19 15:24:31,Which programming language do you prefer?,TypeScript,Europe,25-34
+RESP_0047,2026-03-19 15:24:31,Which learning method do you prefer?,Reading Documentation & Books,Europe,25-34
+RESP_0047,2026-03-19 15:24:31,Which development platform do you use most?,JetBrains IDEs,Europe,25-34
+RESP_0047,2026-03-19 15:24:31,What is your primary career goal in tech?,Cloud & DevOps Engineer,Europe,25-34
+RESP_0048,2026-01-30 04:19:41,Which programming language do you prefer?,TypeScript,Europe,25-34
+RESP_0048,2026-01-30 04:19:41,Which learning method do you prefer?,Interactive Coding Platforms,Europe,25-34
+RESP_0048,2026-01-30 04:19:41,Which development platform do you use most?,VS Code,Europe,25-34
+RESP_0048,2026-01-30 04:19:41,What is your primary career goal in tech?,Full-Stack Web Developer,Europe,25-34
+RESP_0049,2026-01-21 08:05:16,Which programming language do you prefer?,Java,North America,25-34
+RESP_0049,2026-01-21 08:05:16,Which learning method do you prefer?,Hands-on Projects,North America,25-34
+RESP_0049,2026-01-21 08:05:16,Which development platform do you use most?,JupyterLab / Notebooks,North America,25-34
+RESP_0049,2026-01-21 08:05:16,What is your primary career goal in tech?,Cybersecurity Specialist,North America,25-34
+RESP_0050,2026-03-15 15:12:24,Which programming language do you prefer?,Rust,Asia-Pacific,35-44
+RESP_0050,2026-03-15 15:12:24,Which learning method do you prefer?,Hands-on Projects,Asia-Pacific,35-44
+RESP_0050,2026-03-15 15:12:24,Which development platform do you use most?,JetBrains IDEs,Asia-Pacific,35-44
+RESP_0050,2026-03-15 15:12:24,What is your primary career goal in tech?,Data Science & AI Engineer,Asia-Pacific,35-44
+RESP_0051,2026-02-26 08:54:39,Which programming language do you prefer?,JavaScript,Asia-Pacific,18-24
+RESP_0051,2026-02-26 08:54:39,Which learning method do you prefer?,Video Courses & Tutorials,Asia-Pacific,18-24
+RESP_0051,2026-02-26 08:54:39,Which development platform do you use most?,JetBrains IDEs,Asia-Pacific,18-24
+RESP_0051,2026-02-26 08:54:39,What is your primary career goal in tech?,Cloud & DevOps Engineer,Asia-Pacific,18-24
+RESP_0052,2026-02-28 23:16:05,Which programming language do you prefer?,Java,Asia-Pacific,25-34
+RESP_0052,2026-02-28 23:16:05,Which learning method do you prefer?,Hands-on Projects,Asia-Pacific,25-34
+RESP_0052,2026-02-28 23:16:05,Which development platform do you use most?,VS Code,Asia-Pacific,25-34
+RESP_0052,2026-02-28 23:16:05,What is your primary career goal in tech?,Data Science & AI Engineer,Asia-Pacific,25-34
+RESP_0053,2026-03-14 01:46:42,Which programming language do you prefer?,TypeScript,Asia-Pacific,25-34
+RESP_0053,2026-03-14 01:46:42,Which learning method do you prefer?,Hands-on Projects,Asia-Pacific,25-34
+RESP_0053,2026-03-14 01:46:42,Which development platform do you use most?,Cloud IDEs / GitHub Codespaces,Asia-Pacific,25-34
+RESP_0053,2026-03-14 01:46:42,What is your primary career goal in tech?,Cloud & DevOps Engineer,Asia-Pacific,25-34
+RESP_0054,2026-02-07 13:59:31,Which programming language do you prefer?,Python,North America,18-24
+RESP_0054,2026-02-07 13:59:31,Which learning method do you prefer?,Hands-on Projects,North America,18-24
+RESP_0054,2026-02-07 13:59:31,Which development platform do you use most?,JupyterLab / Notebooks,North America,18-24
+RESP_0054,2026-02-07 13:59:31,What is your primary career goal in tech?,Full-Stack Web Developer,North America,18-24
+RESP_0055,2026-02-25 11:23:15,Which programming language do you prefer?,Java,Europe,25-34
+RESP_0055,2026-02-25 11:23:15,Which learning method do you prefer?,Reading Documentation & Books,Europe,25-34
+RESP_0055,2026-02-25 11:23:15,Which development platform do you use most?,VS Code,Europe,25-34
+RESP_0055,2026-02-25 11:23:15,What is your primary career goal in tech?,Full-Stack Web Developer,Europe,25-34
+RESP_0056,2026-03-27 08:09:01,Which programming language do you prefer?,Python,Middle East & Africa,25-34
+RESP_0056,2026-03-27 08:09:01,Which learning method do you prefer?,Interactive Coding Platforms,Middle East & Africa,25-34
+RESP_0056,2026-03-27 08:09:01,Which development platform do you use most?,JetBrains IDEs,Middle East & Africa,25-34
+RESP_0056,2026-03-27 08:09:01,What is your primary career goal in tech?,Data Science & AI Engineer,Middle East & Africa,25-34
+RESP_0057,2026-01-15 22:08:41,Which programming language do you prefer?,JavaScript,Asia-Pacific,25-34
+RESP_0057,2026-01-15 22:08:41,Which learning method do you prefer?,Reading Documentation & Books,Asia-Pacific,25-34
+RESP_0057,2026-01-15 22:08:41,Which development platform do you use most?,VS Code,Asia-Pacific,25-34
+RESP_0057,2026-01-15 22:08:41,What is your primary career goal in tech?,Full-Stack Web Developer,Asia-Pacific,25-34
+RESP_0058,2026-03-24 21:11:43,Which programming language do you prefer?,Go,Europe,18-24
+RESP_0058,2026-03-24 21:11:43,Which learning method do you prefer?,Hands-on Projects,Europe,18-24
+RESP_0058,2026-03-24 21:11:43,Which development platform do you use most?,JupyterLab / Notebooks,Europe,18-24
+RESP_0058,2026-03-24 21:11:43,What is your primary career goal in tech?,Cybersecurity Specialist,Europe,18-24
+RESP_0059,2026-01-22 23:33:18,Which programming language do you prefer?,Rust,Europe,35-44
+RESP_0059,2026-01-22 23:33:18,Which learning method do you prefer?,Video Courses & Tutorials,Europe,35-44
+RESP_0059,2026-01-22 23:33:18,Which development platform do you use most?,JetBrains IDEs,Europe,35-44
+RESP_0059,2026-01-22 23:33:18,What is your primary career goal in tech?,Data Science & AI Engineer,Europe,35-44
+RESP_0060,2026-02-02 01:29:25,Which programming language do you prefer?,Python,Latin America,18-24
+RESP_0060,2026-02-02 01:29:25,Which learning method do you prefer?,Reading Documentation & Books,Latin America,18-24
+RESP_0060,2026-02-02 01:29:25,Which development platform do you use most?,VS Code,Latin America,18-24
+RESP_0060,2026-02-02 01:29:25,What is your primary career goal in tech?,Cybersecurity Specialist,Latin America,18-24
+RESP_0061,2026-01-15 09:46:25,Which programming language do you prefer?,Python,Asia-Pacific,18-24
+RESP_0061,2026-01-15 09:46:25,Which learning method do you prefer?,Video Courses & Tutorials,Asia-Pacific,18-24
+RESP_0061,2026-01-15 09:46:25,Which development platform do you use most?,Neovim / Vim,Asia-Pacific,18-24
+RESP_0061,2026-01-15 09:46:25,What is your primary career goal in tech?,Data Science & AI Engineer,Asia-Pacific,18-24
+RESP_0062,2026-03-16 01:44:05,Which programming language do you prefer?,Java,Latin America,18-24
+RESP_0062,2026-03-16 01:44:05,Which learning method do you prefer?,Reading Documentation & Books,Latin America,18-24
+RESP_0062,2026-03-16 01:44:05,Which development platform do you use most?,JetBrains IDEs,Latin America,18-24
+RESP_0062,2026-03-16 01:44:05,What is your primary career goal in tech?,Cybersecurity Specialist,Latin America,18-24
+RESP_0063,2026-01-24 08:51:45,Which programming language do you prefer?,JavaScript,North America,18-24
+RESP_0063,2026-01-24 08:51:45,Which learning method do you prefer?,Reading Documentation & Books,North America,18-24
+RESP_0063,2026-01-24 08:51:45,Which development platform do you use most?,JetBrains IDEs,North America,18-24
+RESP_0063,2026-01-24 08:51:45,What is your primary career goal in tech?,Cybersecurity Specialist,North America,18-24
+RESP_0064,2026-01-29 11:28:28,Which programming language do you prefer?,Python,North America,25-34
+RESP_0064,2026-01-29 11:28:28,Which learning method do you prefer?,Reading Documentation & Books,North America,25-34
+RESP_0064,2026-01-29 11:28:28,Which development platform do you use most?,JupyterLab / Notebooks,North America,25-34
+RESP_0064,2026-01-29 11:28:28,What is your primary career goal in tech?,Full-Stack Web Developer,North America,25-34
+RESP_0065,2026-01-18 04:13:51,Which programming language do you prefer?,Java,North America,25-34
+RESP_0065,2026-01-18 04:13:51,Which learning method do you prefer?,Reading Documentation & Books,North America,25-34
+RESP_0065,2026-01-18 04:13:51,Which development platform do you use most?,VS Code,North America,25-34
+RESP_0065,2026-01-18 04:13:51,What is your primary career goal in tech?,Data Science & AI Engineer,North America,25-34
+RESP_0066,2026-02-18 09:24:32,Which programming language do you prefer?,Go,North America,55+
+RESP_0066,2026-02-18 09:24:32,Which learning method do you prefer?,Video Courses & Tutorials,North America,55+
+RESP_0066,2026-02-18 09:24:32,Which development platform do you use most?,JetBrains IDEs,North America,55+
+RESP_0066,2026-02-18 09:24:32,What is your primary career goal in tech?,Data Science & AI Engineer,North America,55+
+RESP_0067,2026-02-27 08:25:51,Which programming language do you prefer?,TypeScript,Middle East & Africa,18-24
+RESP_0067,2026-02-27 08:25:51,Which learning method do you prefer?,Video Courses & Tutorials,Middle East & Africa,18-24
+RESP_0067,2026-02-27 08:25:51,Which development platform do you use most?,JupyterLab / Notebooks,Middle East & Africa,18-24
+RESP_0067,2026-02-27 08:25:51,What is your primary career goal in tech?,Data Science & AI Engineer,Middle East & Africa,18-24
+RESP_0068,2026-02-19 13:30:13,Which programming language do you prefer?,Python,Europe,25-34
+RESP_0068,2026-02-19 13:30:13,Which learning method do you prefer?,Hands-on Projects,Europe,25-34
+RESP_0068,2026-02-19 13:30:13,Which development platform do you use most?,VS Code,Europe,25-34
+RESP_0068,2026-02-19 13:30:13,What is your primary career goal in tech?,Data Science & AI Engineer,Europe,25-34
+RESP_0069,2026-03-03 14:19:56,Which programming language do you prefer?,JavaScript,Europe,25-34
+RESP_0069,2026-03-03 14:19:56,Which learning method do you prefer?,Hands-on Projects,Europe,25-34
+RESP_0069,2026-03-03 14:19:56,Which development platform do you use most?,VS Code,Europe,25-34
+RESP_0069,2026-03-03 14:19:56,What is your primary career goal in tech?,Full-Stack Web Developer,Europe,25-34
+RESP_0070,2026-02-15 09:07:12,Which programming language do you prefer?,JavaScript,Europe,18-24
+RESP_0070,2026-02-15 09:07:12,Which learning method do you prefer?,Hands-on Projects,Europe,18-24
+RESP_0070,2026-02-15 09:07:12,Which development platform do you use most?,JetBrains IDEs,Europe,18-24
+RESP_0070,2026-02-15 09:07:12,What is your primary career goal in tech?,Full-Stack Web Developer,Europe,18-24
+RESP_0071,2026-03-04 22:22:46,Which programming language do you prefer?,Python,Asia-Pacific,25-34
+RESP_0071,2026-03-04 22:22:46,Which learning method do you prefer?,Reading Documentation & Books,Asia-Pacific,25-34
+RESP_0071,2026-03-04 22:22:46,Which development platform do you use most?,JetBrains IDEs,Asia-Pacific,25-34
+RESP_0071,2026-03-04 22:22:46,What is your primary career goal in tech?,Full-Stack Web Developer,Asia-Pacific,25-34
+RESP_0072,2026-02-22 10:55:50,Which programming language do you prefer?,TypeScript,Asia-Pacific,18-24
+RESP_0072,2026-02-22 10:55:50,Which learning method do you prefer?,Interactive Coding Platforms,Asia-Pacific,18-24
+RESP_0072,2026-02-22 10:55:50,Which development platform do you use most?,JupyterLab / Notebooks,Asia-Pacific,18-24
+RESP_0072,2026-02-22 10:55:50,What is your primary career goal in tech?,Full-Stack Web Developer,Asia-Pacific,18-24
+RESP_0073,2026-02-07 14:00:40,Which programming language do you prefer?,Go,Europe,35-44
+RESP_0073,2026-02-07 14:00:40,Which learning method do you prefer?,Video Courses & Tutorials,Europe,35-44
+RESP_0073,2026-02-07 14:00:40,Which development platform do you use most?,VS Code,Europe,35-44
+RESP_0073,2026-02-07 14:00:40,What is your primary career goal in tech?,Data Science & AI Engineer,Europe,35-44
+RESP_0074,2026-02-05 01:06:02,Which programming language do you prefer?,Python,Latin America,18-24
+RESP_0074,2026-02-05 01:06:02,Which learning method do you prefer?,Hands-on Projects,Latin America,18-24
+RESP_0074,2026-02-05 01:06:02,Which development platform do you use most?,VS Code,Latin America,18-24
+RESP_0074,2026-02-05 01:06:02,What is your primary career goal in tech?,Cloud & DevOps Engineer,Latin America,18-24
+RESP_0075,2026-03-20 05:47:11,Which programming language do you prefer?,JavaScript,North America,35-44
+RESP_0075,2026-03-20 05:47:11,Which learning method do you prefer?,Hands-on Projects,North America,35-44
+RESP_0075,2026-03-20 05:47:11,Which development platform do you use most?,JetBrains IDEs,North America,35-44
+RESP_0075,2026-03-20 05:47:11,What is your primary career goal in tech?,Data Science & AI Engineer,North America,35-44
+RESP_0076,2026-03-30 15:50:09,Which programming language do you prefer?,TypeScript,Europe,45-54
+RESP_0076,2026-03-30 15:50:09,Which learning method do you prefer?,Hands-on Projects,Europe,45-54
+RESP_0076,2026-03-30 15:50:09,Which development platform do you use most?,JetBrains IDEs,Europe,45-54
+RESP_0076,2026-03-30 15:50:09,What is your primary career goal in tech?,Cloud & DevOps Engineer,Europe,45-54
+RESP_0077,2026-01-15 19:18:35,Which programming language do you prefer?,Python,Europe,25-34
+RESP_0077,2026-01-15 19:18:35,Which learning method do you prefer?,Video Courses & Tutorials,Europe,25-34
+RESP_0077,2026-01-15 19:18:35,Which development platform do you use most?,VS Code,Europe,25-34
+RESP_0077,2026-01-15 19:18:35,What is your primary career goal in tech?,Data Science & AI Engineer,Europe,25-34
+RESP_0078,2026-02-25 16:44:41,Which programming language do you prefer?,Go,Asia-Pacific,55+
+RESP_0078,2026-02-25 16:44:41,Which learning method do you prefer?,Mentorship & Study Groups,Asia-Pacific,55+
+RESP_0078,2026-02-25 16:44:41,Which development platform do you use most?,VS Code,Asia-Pacific,55+
+RESP_0078,2026-02-25 16:44:41,What is your primary career goal in tech?,Full-Stack Web Developer,Asia-Pacific,55+
+RESP_0079,2026-03-12 15:35:39,Which programming language do you prefer?,JavaScript,Europe,18-24
+RESP_0079,2026-03-12 15:35:39,Which learning method do you prefer?,Video Courses & Tutorials,Europe,18-24
+RESP_0079,2026-03-12 15:35:39,Which development platform do you use most?,VS Code,Europe,18-24
+RESP_0079,2026-03-12 15:35:39,What is your primary career goal in tech?,Data Science & AI Engineer,Europe,18-24
+RESP_0080,2026-02-01 11:08:02,Which programming language do you prefer?,Python,Latin America,18-24
+RESP_0080,2026-02-01 11:08:02,Which learning method do you prefer?,Video Courses & Tutorials,Latin America,18-24
+RESP_0080,2026-02-01 11:08:02,Which development platform do you use most?,JetBrains IDEs,Latin America,18-24
+RESP_0080,2026-02-01 11:08:02,What is your primary career goal in tech?,Full-Stack Web Developer,Latin America,18-24
+RESP_0081,2026-03-19 06:27:32,Which programming language do you prefer?,TypeScript,North America,18-24
+RESP_0081,2026-03-19 06:27:32,Which learning method do you prefer?,Video Courses & Tutorials,North America,18-24
+RESP_0081,2026-03-19 06:27:32,Which development platform do you use most?,JetBrains IDEs,North America,18-24
+RESP_0081,2026-03-19 06:27:32,What is your primary career goal in tech?,Cloud & DevOps Engineer,North America,18-24
+RESP_0082,2026-02-24 11:08:57,Which programming language do you prefer?,Python,North America,18-24
+RESP_0082,2026-02-24 11:08:57,Which learning method do you prefer?,Interactive Coding Platforms,North America,18-24
+RESP_0082,2026-02-24 11:08:57,Which development platform do you use most?,VS Code,North America,18-24
+RESP_0082,2026-02-24 11:08:57,What is your primary career goal in tech?,Cloud & DevOps Engineer,North America,18-24
+RESP_0083,2026-03-24 05:11:38,Which programming language do you prefer?,JavaScript,Latin America,25-34
+RESP_0083,2026-03-24 05:11:38,Which learning method do you prefer?,Interactive Coding Platforms,Latin America,25-34
+RESP_0083,2026-03-24 05:11:38,Which development platform do you use most?,VS Code,Latin America,25-34
+RESP_0083,2026-03-24 05:11:38,What is your primary career goal in tech?,Full-Stack Web Developer,Latin America,25-34
+RESP_0084,2026-02-13 21:23:40,Which programming language do you prefer?,Java,Europe,18-24
+RESP_0084,2026-02-13 21:23:40,Which learning method do you prefer?,Video Courses & Tutorials,Europe,18-24
+RESP_0084,2026-02-13 21:23:40,Which development platform do you use most?,VS Code,Europe,18-24
+RESP_0084,2026-02-13 21:23:40,What is your primary career goal in tech?,Full-Stack Web Developer,Europe,18-24
+RESP_0085,2026-03-25 13:25:43,Which programming language do you prefer?,JavaScript,North America,18-24
+RESP_0085,2026-03-25 13:25:43,Which learning method do you prefer?,Hands-on Projects,North America,18-24
+RESP_0085,2026-03-25 13:25:43,Which development platform do you use most?,JetBrains IDEs,North America,18-24
+RESP_0085,2026-03-25 13:25:43,What is your primary career goal in tech?,Data Science & AI Engineer,North America,18-24
+RESP_0086,2026-03-03 12:47:08,Which programming language do you prefer?,Rust,North America,25-34
+RESP_0086,2026-03-03 12:47:08,Which learning method do you prefer?,Video Courses & Tutorials,North America,25-34
+RESP_0086,2026-03-03 12:47:08,Which development platform do you use most?,VS Code,North America,25-34
+RESP_0086,2026-03-03 12:47:08,What is your primary career goal in tech?,Cloud & DevOps Engineer,North America,25-34
+RESP_0087,2026-03-28 05:46:48,Which programming language do you prefer?,Go,Latin America,25-34
+RESP_0087,2026-03-28 05:46:48,Which learning method do you prefer?,Interactive Coding Platforms,Latin America,25-34
+RESP_0087,2026-03-28 05:46:48,Which development platform do you use most?,VS Code,Latin America,25-34
+RESP_0087,2026-03-28 05:46:48,What is your primary career goal in tech?,Cloud & DevOps Engineer,Latin America,25-34
+RESP_0088,2026-03-05 01:23:03,Which programming language do you prefer?,Rust,Europe,25-34
+RESP_0088,2026-03-05 01:23:03,Which learning method do you prefer?,Mentorship & Study Groups,Europe,25-34
+RESP_0088,2026-03-05 01:23:03,Which development platform do you use most?,VS Code,Europe,25-34
+RESP_0088,2026-03-05 01:23:03,What is your primary career goal in tech?,Cloud & DevOps Engineer,Europe,25-34
+RESP_0089,2026-01-24 06:57:56,Which programming language do you prefer?,Python,Asia-Pacific,18-24
+RESP_0089,2026-01-24 06:57:56,Which learning method do you prefer?,Reading Documentation & Books,Asia-Pacific,18-24
+RESP_0089,2026-01-24 06:57:56,Which development platform do you use most?,VS Code,Asia-Pacific,18-24
+RESP_0089,2026-01-24 06:57:56,What is your primary career goal in tech?,Mobile App Developer,Asia-Pacific,18-24
+RESP_0090,2026-02-14 20:50:12,Which programming language do you prefer?,Go,Europe,55+
+RESP_0090,2026-02-14 20:50:12,Which learning method do you prefer?,Hands-on Projects,Europe,55+
+RESP_0090,2026-02-14 20:50:12,Which development platform do you use most?,JetBrains IDEs,Europe,55+
+RESP_0090,2026-02-14 20:50:12,What is your primary career goal in tech?,Cybersecurity Specialist,Europe,55+
+RESP_0091,2026-01-17 18:32:50,Which programming language do you prefer?,JavaScript,Latin America,35-44
+RESP_0091,2026-01-17 18:32:50,Which learning method do you prefer?,Hands-on Projects,Latin America,35-44
+RESP_0091,2026-01-17 18:32:50,Which development platform do you use most?,VS Code,Latin America,35-44
+RESP_0091,2026-01-17 18:32:50,What is your primary career goal in tech?,Cloud & DevOps Engineer,Latin America,35-44
+RESP_0092,2026-03-20 21:49:18,Which programming language do you prefer?,TypeScript,Asia-Pacific,35-44
+RESP_0092,2026-03-20 21:49:18,Which learning method do you prefer?,Reading Documentation & Books,Asia-Pacific,35-44
+RESP_0092,2026-03-20 21:49:18,Which development platform do you use most?,VS Code,Asia-Pacific,35-44
+RESP_0092,2026-03-20 21:49:18,What is your primary career goal in tech?,Data Science & AI Engineer,Asia-Pacific,35-44
+RESP_0093,2026-01-15 08:06:00,Which programming language do you prefer?,JavaScript,Asia-Pacific,35-44
+RESP_0093,2026-01-15 08:06:00,Which learning method do you prefer?,Video Courses & Tutorials,Asia-Pacific,35-44
+RESP_0093,2026-01-15 08:06:00,Which development platform do you use most?,VS Code,Asia-Pacific,35-44
+RESP_0093,2026-01-15 08:06:00,What is your primary career goal in tech?,Full-Stack Web Developer,Asia-Pacific,35-44
+RESP_0094,2026-02-01 19:47:06,Which programming language do you prefer?,Go,Latin America,25-34
+RESP_0094,2026-02-01 19:47:06,Which learning method do you prefer?,Hands-on Projects,Latin America,25-34
+RESP_0094,2026-02-01 19:47:06,Which development platform do you use most?,Cloud IDEs / GitHub Codespaces,Latin America,25-34
+RESP_0094,2026-02-01 19:47:06,What is your primary career goal in tech?,Data Science & AI Engineer,Latin America,25-34
+RESP_0095,2026-02-04 14:41:06,Which programming language do you prefer?,Java,Asia-Pacific,25-34
+RESP_0095,2026-02-04 14:41:06,Which learning method do you prefer?,Hands-on Projects,Asia-Pacific,25-34
+RESP_0095,2026-02-04 14:41:06,Which development platform do you use most?,VS Code,Asia-Pacific,25-34
+RESP_0095,2026-02-04 14:41:06,What is your primary career goal in tech?,Full-Stack Web Developer,Asia-Pacific,25-34
+RESP_0096,2026-03-30 21:44:17,Which programming language do you prefer?,Python,Asia-Pacific,35-44
+RESP_0096,2026-03-30 21:44:17,Which learning method do you prefer?,Hands-on Projects,Asia-Pacific,35-44
+RESP_0096,2026-03-30 21:44:17,Which development platform do you use most?,VS Code,Asia-Pacific,35-44
+RESP_0096,2026-03-30 21:44:17,What is your primary career goal in tech?,Full-Stack Web Developer,Asia-Pacific,35-44
+RESP_0097,2026-02-28 15:22:59,Which programming language do you prefer?,JavaScript,Middle East & Africa,25-34
+RESP_0097,2026-02-28 15:22:59,Which learning method do you prefer?,Interactive Coding Platforms,Middle East & Africa,25-34
+RESP_0097,2026-02-28 15:22:59,Which development platform do you use most?,VS Code,Middle East & Africa,25-34
+RESP_0097,2026-02-28 15:22:59,What is your primary career goal in tech?,Data Science & AI Engineer,Middle East & Africa,25-34
+RESP_0098,2026-01-30 03:33:44,Which programming language do you prefer?,Python,Europe,18-24
+RESP_0098,2026-01-30 03:33:44,Which learning method do you prefer?,Video Courses & Tutorials,Europe,18-24
+RESP_0098,2026-01-30 03:33:44,Which development platform do you use most?,JetBrains IDEs,Europe,18-24
+RESP_0098,2026-01-30 03:33:44,What is your primary career goal in tech?,Full-Stack Web Developer,Europe,18-24
+RESP_0099,2026-03-12 09:32:01,Which programming language do you prefer?,JavaScript,Europe,45-54
+RESP_0099,2026-03-12 09:32:01,Which learning method do you prefer?,Hands-on Projects,Europe,45-54
+RESP_0099,2026-03-12 09:32:01,Which development platform do you use most?,Cloud IDEs / GitHub Codespaces,Europe,45-54
+RESP_0099,2026-03-12 09:32:01,What is your primary career goal in tech?,Data Science & AI Engineer,Europe,45-54
+RESP_0100,2026-02-23 17:10:32,Which programming language do you prefer?,TypeScript,Europe,45-54
+RESP_0100,2026-02-23 17:10:32,Which learning method do you prefer?,Video Courses & Tutorials,Europe,45-54
+RESP_0100,2026-02-23 17:10:32,Which development platform do you use most?,JetBrains IDEs,Europe,45-54
+RESP_0100,2026-02-23 17:10:32,What is your primary career goal in tech?,Data Science & AI Engineer,Europe,45-54
+RESP_0101,2026-01-26 15:47:41,Which programming language do you prefer?,Java,North America,18-24
+RESP_0101,2026-01-26 15:47:41,Which learning method do you prefer?,Hands-on Projects,North America,18-24
+RESP_0101,2026-01-26 15:47:41,Which development platform do you use most?,JetBrains IDEs,North America,18-24
+RESP_0101,2026-01-26 15:47:41,What is your primary career goal in tech?,Cloud & DevOps Engineer,North America,18-24
+RESP_0102,2026-02-19 17:15:47,Which programming language do you prefer?,Rust,Asia-Pacific,25-34
+RESP_0102,2026-02-19 17:15:47,Which learning method do you prefer?,Video Courses & Tutorials,Asia-Pacific,25-34
+RESP_0102,2026-02-19 17:15:47,Which development platform do you use most?,Neovim / Vim,Asia-Pacific,25-34
+RESP_0102,2026-02-19 17:15:47,What is your primary career goal in tech?,Cybersecurity Specialist,Asia-Pacific,25-34
+RESP_0103,2026-02-26 03:54:26,Which programming language do you prefer?,Python,Asia-Pacific,18-24
+RESP_0103,2026-02-26 03:54:26,Which learning method do you prefer?,Video Courses & Tutorials,Asia-Pacific,18-24
+RESP_0103,2026-02-26 03:54:26,Which development platform do you use most?,JupyterLab / Notebooks,Asia-Pacific,18-24
+RESP_0103,2026-02-26 03:54:26,What is your primary career goal in tech?,Full-Stack Web Developer,Asia-Pacific,18-24
+RESP_0104,2026-03-27 23:35:38,Which programming language do you prefer?,Python,Europe,18-24
+RESP_0104,2026-03-27 23:35:38,Which learning method do you prefer?,Hands-on Projects,Europe,18-24
+RESP_0104,2026-03-27 23:35:38,Which development platform do you use most?,VS Code,Europe,18-24
+RESP_0104,2026-03-27 23:35:38,What is your primary career goal in tech?,Data Science & AI Engineer,Europe,18-24
+RESP_0105,2026-02-07 10:37:33,Which programming language do you prefer?,Python,Europe,25-34
+RESP_0105,2026-02-07 10:37:33,Which learning method do you prefer?,Hands-on Projects,Europe,25-34
+RESP_0105,2026-02-07 10:37:33,Which development platform do you use most?,VS Code,Europe,25-34
+RESP_0105,2026-02-07 10:37:33,What is your primary career goal in tech?,Data Science & AI Engineer,Europe,25-34
+RESP_0106,2026-02-06 15:43:43,Which programming language do you prefer?,JavaScript,Asia-Pacific,18-24
+RESP_0106,2026-02-06 15:43:43,Which learning method do you prefer?,Hands-on Projects,Asia-Pacific,18-24
+RESP_0106,2026-02-06 15:43:43,Which development platform do you use most?,VS Code,Asia-Pacific,18-24
+RESP_0106,2026-02-06 15:43:43,What is your primary career goal in tech?,Data Science & AI Engineer,Asia-Pacific,18-24
+RESP_0107,2026-02-22 02:42:04,Which programming language do you prefer?,JavaScript,Latin America,18-24
+RESP_0107,2026-02-22 02:42:04,Which learning method do you prefer?,Hands-on Projects,Latin America,18-24
+RESP_0107,2026-02-22 02:42:04,Which development platform do you use most?,VS Code,Latin America,18-24
+RESP_0107,2026-02-22 02:42:04,What is your primary career goal in tech?,Cloud & DevOps Engineer,Latin America,18-24
+RESP_0108,2026-02-08 04:28:58,Which programming language do you prefer?,Python,Latin America,18-24
+RESP_0108,2026-02-08 04:28:58,Which learning method do you prefer?,Video Courses & Tutorials,Latin America,18-24
+RESP_0108,2026-02-08 04:28:58,Which development platform do you use most?,JetBrains IDEs,Latin America,18-24
+RESP_0108,2026-02-08 04:28:58,What is your primary career goal in tech?,Data Science & AI Engineer,Latin America,18-24
+RESP_0109,2026-01-18 15:25:28,Which programming language do you prefer?,JavaScript,Europe,45-54
+RESP_0109,2026-01-18 15:25:28,Which learning method do you prefer?,Reading Documentation & Books,Europe,45-54
+RESP_0109,2026-01-18 15:25:28,Which development platform do you use most?,VS Code,Europe,45-54
+RESP_0109,2026-01-18 15:25:28,What is your primary career goal in tech?,Data Science & AI Engineer,Europe,45-54
+RESP_0110,2026-01-15 16:40:03,Which programming language do you prefer?,Python,North America,45-54
+RESP_0110,2026-01-15 16:40:03,Which learning method do you prefer?,Hands-on Projects,North America,45-54
+RESP_0110,2026-01-15 16:40:03,Which development platform do you use most?,VS Code,North America,45-54
+RESP_0110,2026-01-15 16:40:03,What is your primary career goal in tech?,Cloud & DevOps Engineer,North America,45-54
+RESP_0111,2026-02-28 06:21:06,Which programming language do you prefer?,Go,North America,25-34
+RESP_0111,2026-02-28 06:21:06,Which learning method do you prefer?,Hands-on Projects,North America,25-34
+RESP_0111,2026-02-28 06:21:06,Which development platform do you use most?,Cloud IDEs / GitHub Codespaces,North America,25-34
+RESP_0111,2026-02-28 06:21:06,What is your primary career goal in tech?,Full-Stack Web Developer,North America,25-34
+RESP_0112,2026-03-20 03:53:05,Which programming language do you prefer?,Python,North America,35-44
+RESP_0112,2026-03-20 03:53:05,Which learning method do you prefer?,Interactive Coding Platforms,North America,35-44
+RESP_0112,2026-03-20 03:53:05,Which development platform do you use most?,VS Code,North America,35-44
+RESP_0112,2026-03-20 03:53:05,What is your primary career goal in tech?,Full-Stack Web Developer,North America,35-44
+RESP_0113,2026-03-16 23:41:12,Which programming language do you prefer?,Python,Middle East & Africa,18-24
+RESP_0113,2026-03-16 23:41:12,Which learning method do you prefer?,Reading Documentation & Books,Middle East & Africa,18-24
+RESP_0113,2026-03-16 23:41:12,Which development platform do you use most?,JetBrains IDEs,Middle East & Africa,18-24
+RESP_0113,2026-03-16 23:41:12,What is your primary career goal in tech?,Data Science & AI Engineer,Middle East & Africa,18-24
+RESP_0114,2026-01-20 20:35:42,Which programming language do you prefer?,Python,Europe,18-24
+RESP_0114,2026-01-20 20:35:42,Which learning method do you prefer?,Hands-on Projects,Europe,18-24
+RESP_0114,2026-01-20 20:35:42,Which development platform do you use most?,VS Code,Europe,18-24
+RESP_0114,2026-01-20 20:35:42,What is your primary career goal in tech?,Data Science & AI Engineer,Europe,18-24
+RESP_0115,2026-03-11 09:26:40,Which programming language do you prefer?,Python,Asia-Pacific,25-34
+RESP_0115,2026-03-11 09:26:40,Which learning method do you prefer?,Interactive Coding Platforms,Asia-Pacific,25-34
+RESP_0115,2026-03-11 09:26:40,Which development platform do you use most?,JetBrains IDEs,Asia-Pacific,25-34
+RESP_0115,2026-03-11 09:26:40,What is your primary career goal in tech?,Data Science & AI Engineer,Asia-Pacific,25-34
+RESP_0116,2026-01-27 23:17:56,Which programming language do you prefer?,JavaScript,North America,25-34
+RESP_0116,2026-01-27 23:17:56,Which learning method do you prefer?,Mentorship & Study Groups,North America,25-34
+RESP_0116,2026-01-27 23:17:56,Which development platform do you use most?,VS Code,North America,25-34
+RESP_0116,2026-01-27 23:17:56,What is your primary career goal in tech?,Data Science & AI Engineer,North America,25-34
+RESP_0117,2026-01-24 12:26:16,Which programming language do you prefer?,Java,Middle East & Africa,25-34
+RESP_0117,2026-01-24 12:26:16,Which learning method do you prefer?,Interactive Coding Platforms,Middle East & Africa,25-34
+RESP_0117,2026-01-24 12:26:16,Which development platform do you use most?,JetBrains IDEs,Middle East & Africa,25-34
+RESP_0117,2026-01-24 12:26:16,What is your primary career goal in tech?,Cloud & DevOps Engineer,Middle East & Africa,25-34
+RESP_0118,2026-02-28 14:13:18,Which programming language do you prefer?,Python,North America,18-24
+RESP_0118,2026-02-28 14:13:18,Which learning method do you prefer?,Video Courses & Tutorials,North America,18-24
+RESP_0118,2026-02-28 14:13:18,Which development platform do you use most?,Neovim / Vim,North America,18-24
+RESP_0118,2026-02-28 14:13:18,What is your primary career goal in tech?,Data Science & AI Engineer,North America,18-24
+RESP_0119,2026-03-21 12:59:57,Which programming language do you prefer?,Python,Asia-Pacific,18-24
+RESP_0119,2026-03-21 12:59:57,Which learning method do you prefer?,Video Courses & Tutorials,Asia-Pacific,18-24
+RESP_0119,2026-03-21 12:59:57,Which development platform do you use most?,JetBrains IDEs,Asia-Pacific,18-24
+RESP_0119,2026-03-21 12:59:57,What is your primary career goal in tech?,Full-Stack Web Developer,Asia-Pacific,18-24
+RESP_0120,2026-02-26 12:29:16,Which programming language do you prefer?,TypeScript,Asia-Pacific,25-34
+RESP_0120,2026-02-26 12:29:16,Which learning method do you prefer?,Mentorship & Study Groups,Asia-Pacific,25-34
+RESP_0120,2026-02-26 12:29:16,Which development platform do you use most?,VS Code,Asia-Pacific,25-34
+RESP_0120,2026-02-26 12:29:16,What is your primary career goal in tech?,Full-Stack Web Developer,Asia-Pacific,25-34
+RESP_0121,2026-02-23 00:24:50,Which programming language do you prefer?,JavaScript,North America,35-44
+RESP_0121,2026-02-23 00:24:50,Which learning method do you prefer?,Hands-on Projects,North America,35-44
+RESP_0121,2026-02-23 00:24:50,Which development platform do you use most?,Cloud IDEs / GitHub Codespaces,North America,35-44
+RESP_0121,2026-02-23 00:24:50,What is your primary career goal in tech?,Full-Stack Web Developer,North America,35-44
+RESP_0122,2026-03-28 02:47:21,Which programming language do you prefer?,Python,Asia-Pacific,18-24
+RESP_0122,2026-03-28 02:47:21,Which learning method do you prefer?,Hands-on Projects,Asia-Pacific,18-24
+RESP_0122,2026-03-28 02:47:21,Which development platform do you use most?,Cloud IDEs / GitHub Codespaces,Asia-Pacific,18-24
+RESP_0122,2026-03-28 02:47:21,What is your primary career goal in tech?,Cybersecurity Specialist,Asia-Pacific,18-24
+RESP_0123,2026-03-11 00:17:26,Which programming language do you prefer?,Java,North America,25-34
+RESP_0123,2026-03-11 00:17:26,Which learning method do you prefer?,Hands-on Projects,North America,25-34
+RESP_0123,2026-03-11 00:17:26,Which development platform do you use most?,VS Code,North America,25-34
+RESP_0123,2026-03-11 00:17:26,What is your primary career goal in tech?,Cloud & DevOps Engineer,North America,25-34
+RESP_0124,2026-02-26 17:52:51,Which programming language do you prefer?,Python,Asia-Pacific,35-44
+RESP_0124,2026-02-26 17:52:51,Which learning method do you prefer?,Interactive Coding Platforms,Asia-Pacific,35-44
+RESP_0124,2026-02-26 17:52:51,Which development platform do you use most?,Cloud IDEs / GitHub Codespaces,Asia-Pacific,35-44
+RESP_0124,2026-02-26 17:52:51,What is your primary career goal in tech?,Cloud & DevOps Engineer,Asia-Pacific,35-44
+RESP_0125,2026-03-11 18:28:50,Which programming language do you prefer?,Python,North America,18-24
+RESP_0125,2026-03-11 18:28:50,Which learning method do you prefer?,Mentorship & Study Groups,North America,18-24
+RESP_0125,2026-03-11 18:28:50,Which development platform do you use most?,VS Code,North America,18-24
+RESP_0125,2026-03-11 18:28:50,What is your primary career goal in tech?,Cloud & DevOps Engineer,North America,18-24
+RESP_0126,2026-02-07 22:26:18,Which programming language do you prefer?,TypeScript,Latin America,25-34
+RESP_0126,2026-02-07 22:26:18,Which learning method do you prefer?,Video Courses & Tutorials,Latin America,25-34
+RESP_0126,2026-02-07 22:26:18,Which development platform do you use most?,VS Code,Latin America,25-34
+RESP_0126,2026-02-07 22:26:18,What is your primary career goal in tech?,Full-Stack Web Developer,Latin America,25-34
+RESP_0127,2026-01-29 18:08:09,Which programming language do you prefer?,JavaScript,Middle East & Africa,25-34
+RESP_0127,2026-01-29 18:08:09,Which learning method do you prefer?,Hands-on Projects,Middle East & Africa,25-34
+RESP_0127,2026-01-29 18:08:09,Which development platform do you use most?,VS Code,Middle East & Africa,25-34
+RESP_0127,2026-01-29 18:08:09,What is your primary career goal in tech?,Data Science & AI Engineer,Middle East & Africa,25-34
+RESP_0128,2026-03-27 14:49:01,Which programming language do you prefer?,Python,Asia-Pacific,18-24
+RESP_0128,2026-03-27 14:49:01,Which learning method do you prefer?,Hands-on Projects,Asia-Pacific,18-24
+RESP_0128,2026-03-27 14:49:01,Which development platform do you use most?,Neovim / Vim,Asia-Pacific,18-24
+RESP_0128,2026-03-27 14:49:01,What is your primary career goal in tech?,Cybersecurity Specialist,Asia-Pacific,18-24
+RESP_0129,2026-01-28 22:22:44,Which programming language do you prefer?,JavaScript,North America,18-24
+RESP_0129,2026-01-28 22:22:44,Which learning method do you prefer?,Video Courses & Tutorials,North America,18-24
+RESP_0129,2026-01-28 22:22:44,Which development platform do you use most?,VS Code,North America,18-24
+RESP_0129,2026-01-28 22:22:44,What is your primary career goal in tech?,Data Science & AI Engineer,North America,18-24
+RESP_0130,2026-03-04 22:32:04,Which programming language do you prefer?,JavaScript,Europe,45-54
+RESP_0130,2026-03-04 22:32:04,Which learning method do you prefer?,Hands-on Projects,Europe,45-54
+RESP_0130,2026-03-04 22:32:04,Which development platform do you use most?,VS Code,Europe,45-54
+RESP_0130,2026-03-04 22:32:04,What is your primary career goal in tech?,Data Science & AI Engineer,Europe,45-54
+RESP_0131,2026-03-23 14:57:19,Which programming language do you prefer?,Rust,Asia-Pacific,35-44
+RESP_0131,2026-03-23 14:57:19,Which learning method do you prefer?,Mentorship & Study Groups,Asia-Pacific,35-44
+RESP_0131,2026-03-23 14:57:19,Which development platform do you use most?,JupyterLab / Notebooks,Asia-Pacific,35-44
+RESP_0131,2026-03-23 14:57:19,What is your primary career goal in tech?,Data Science & AI Engineer,Asia-Pacific,35-44
+RESP_0132,2026-02-25 11:13:00,Which programming language do you prefer?,Python,North America,18-24
+RESP_0132,2026-02-25 11:13:00,Which learning method do you prefer?,Interactive Coding Platforms,North America,18-24
+RESP_0132,2026-02-25 11:13:00,Which development platform do you use most?,JetBrains IDEs,North America,18-24
+RESP_0132,2026-02-25 11:13:00,What is your primary career goal in tech?,Full-Stack Web Developer,North America,18-24
+RESP_0133,2026-01-27 00:33:41,Which programming language do you prefer?,Go,North America,18-24
+RESP_0133,2026-01-27 00:33:41,Which learning method do you prefer?,Video Courses & Tutorials,North America,18-24
+RESP_0133,2026-01-27 00:33:41,Which development platform do you use most?,JetBrains IDEs,North America,18-24
+RESP_0133,2026-01-27 00:33:41,What is your primary career goal in tech?,Data Science & AI Engineer,North America,18-24
+RESP_0134,2026-03-13 00:01:37,Which programming language do you prefer?,TypeScript,Europe,25-34
+RESP_0134,2026-03-13 00:01:37,Which learning method do you prefer?,Hands-on Projects,Europe,25-34
+RESP_0134,2026-03-13 00:01:37,Which development platform do you use most?,JupyterLab / Notebooks,Europe,25-34
+RESP_0134,2026-03-13 00:01:37,What is your primary career goal in tech?,Data Science & AI Engineer,Europe,25-34
+RESP_0135,2026-02-03 20:10:17,Which programming language do you prefer?,Go,Latin America,18-24
+RESP_0135,2026-02-03 20:10:17,Which learning method do you prefer?,Hands-on Projects,Latin America,18-24
+RESP_0135,2026-02-03 20:10:17,Which development platform do you use most?,VS Code,Latin America,18-24
+RESP_0135,2026-02-03 20:10:17,What is your primary career goal in tech?,Full-Stack Web Developer,Latin America,18-24
+RESP_0136,2026-03-19 20:24:08,Which programming language do you prefer?,Java,North America,25-34
+RESP_0136,2026-03-19 20:24:08,Which learning method do you prefer?,Hands-on Projects,North America,25-34
+RESP_0136,2026-03-19 20:24:08,Which development platform do you use most?,JetBrains IDEs,North America,25-34
+RESP_0136,2026-03-19 20:24:08,What is your primary career goal in tech?,Data Science & AI Engineer,North America,25-34
+RESP_0137,2026-03-26 12:02:03,Which programming language do you prefer?,Java,North America,18-24
+RESP_0137,2026-03-26 12:02:03,Which learning method do you prefer?,Reading Documentation & Books,North America,18-24
+RESP_0137,2026-03-26 12:02:03,Which development platform do you use most?,VS Code,North America,18-24
+RESP_0137,2026-03-26 12:02:03,What is your primary career goal in tech?,Full-Stack Web Developer,North America,18-24
+RESP_0138,2026-02-16 14:12:48,Which programming language do you prefer?,Python,Europe,25-34
+RESP_0138,2026-02-16 14:12:48,Which learning method do you prefer?,Hands-on Projects,Europe,25-34
+RESP_0138,2026-02-16 14:12:48,Which development platform do you use most?,JupyterLab / Notebooks,Europe,25-34
+RESP_0138,2026-02-16 14:12:48,What is your primary career goal in tech?,Full-Stack Web Developer,Europe,25-34
+RESP_0139,2026-02-25 13:56:59,Which programming language do you prefer?,Python,Middle East & Africa,18-24
+RESP_0139,2026-02-25 13:56:59,Which learning method do you prefer?,Hands-on Projects,Middle East & Africa,18-24
+RESP_0139,2026-02-25 13:56:59,Which development platform do you use most?,VS Code,Middle East & Africa,18-24
+RESP_0139,2026-02-25 13:56:59,What is your primary career goal in tech?,Data Science & AI Engineer,Middle East & Africa,18-24
+RESP_0140,2026-03-01 14:37:57,Which programming language do you prefer?,JavaScript,Latin America,18-24
+RESP_0140,2026-03-01 14:37:57,Which learning method do you prefer?,Hands-on Projects,Latin America,18-24
+RESP_0140,2026-03-01 14:37:57,Which development platform do you use most?,JetBrains IDEs,Latin America,18-24
+RESP_0140,2026-03-01 14:37:57,What is your primary career goal in tech?,Data Science & AI Engineer,Latin America,18-24
+RESP_0141,2026-03-11 14:54:22,Which programming language do you prefer?,JavaScript,Middle East & Africa,35-44
+RESP_0141,2026-03-11 14:54:22,Which learning method do you prefer?,Hands-on Projects,Middle East & Africa,35-44
+RESP_0141,2026-03-11 14:54:22,Which development platform do you use most?,JupyterLab / Notebooks,Middle East & Africa,35-44
+RESP_0141,2026-03-11 14:54:22,What is your primary career goal in tech?,Full-Stack Web Developer,Middle East & Africa,35-44
+RESP_0142,2026-03-15 14:01:21,Which programming language do you prefer?,TypeScript,North America,18-24
+RESP_0142,2026-03-15 14:01:21,Which learning method do you prefer?,Reading Documentation & Books,North America,18-24
+RESP_0142,2026-03-15 14:01:21,Which development platform do you use most?,Neovim / Vim,North America,18-24
+RESP_0142,2026-03-15 14:01:21,What is your primary career goal in tech?,Data Science & AI Engineer,North America,18-24
+RESP_0143,2026-03-03 22:13:28,Which programming language do you prefer?,Python,Latin America,25-34
+RESP_0143,2026-03-03 22:13:28,Which learning method do you prefer?,Mentorship & Study Groups,Latin America,25-34
+RESP_0143,2026-03-03 22:13:28,Which development platform do you use most?,VS Code,Latin America,25-34
+RESP_0143,2026-03-03 22:13:28,What is your primary career goal in tech?,Data Science & AI Engineer,Latin America,25-34
+RESP_0144,2026-01-26 10:11:17,Which programming language do you prefer?,TypeScript,Europe,18-24
+RESP_0144,2026-01-26 10:11:17,Which learning method do you prefer?,Hands-on Projects,Europe,18-24
+RESP_0144,2026-01-26 10:11:17,Which development platform do you use most?,JupyterLab / Notebooks,Europe,18-24
+RESP_0144,2026-01-26 10:11:17,What is your primary career goal in tech?,Data Science & AI Engineer,Europe,18-24
+RESP_0145,2026-03-05 11:54:44,Which programming language do you prefer?,JavaScript,Asia-Pacific,25-34
+RESP_0145,2026-03-05 11:54:44,Which learning method do you prefer?,Video Courses & Tutorials,Asia-Pacific,25-34
+RESP_0145,2026-03-05 11:54:44,Which development platform do you use most?,JupyterLab / Notebooks,Asia-Pacific,25-34
+RESP_0145,2026-03-05 11:54:44,What is your primary career goal in tech?,Full-Stack Web Developer,Asia-Pacific,25-34
+RESP_0146,2026-03-19 10:48:48,Which programming language do you prefer?,Python,North America,25-34
+RESP_0146,2026-03-19 10:48:48,Which learning method do you prefer?,Video Courses & Tutorials,North America,25-34
+RESP_0146,2026-03-19 10:48:48,Which development platform do you use most?,Cloud IDEs / GitHub Codespaces,North America,25-34
+RESP_0146,2026-03-19 10:48:48,What is your primary career goal in tech?,Cloud & DevOps Engineer,North America,25-34
+RESP_0147,2026-03-05 11:59:32,Which programming language do you prefer?,Python,Middle East & Africa,25-34
+RESP_0147,2026-03-05 11:59:32,Which learning method do you prefer?,Mentorship & Study Groups,Middle East & Africa,25-34
+RESP_0147,2026-03-05 11:59:32,Which development platform do you use most?,VS Code,Middle East & Africa,25-34
+RESP_0147,2026-03-05 11:59:32,What is your primary career goal in tech?,Cloud & DevOps Engineer,Middle East & Africa,25-34
+RESP_0148,2026-03-09 23:36:30,Which programming language do you prefer?,JavaScript,Europe,25-34
+RESP_0148,2026-03-09 23:36:30,Which learning method do you prefer?,Interactive Coding Platforms,Europe,25-34
+RESP_0148,2026-03-09 23:36:30,Which development platform do you use most?,VS Code,Europe,25-34
+RESP_0148,2026-03-09 23:36:30,What is your primary career goal in tech?,Cloud & DevOps Engineer,Europe,25-34
+RESP_0149,2026-02-17 00:05:24,Which programming language do you prefer?,Python,Europe,25-34
+RESP_0149,2026-02-17 00:05:24,Which learning method do you prefer?,Hands-on Projects,Europe,25-34
+RESP_0149,2026-02-17 00:05:24,Which development platform do you use most?,JetBrains IDEs,Europe,25-34
+RESP_0149,2026-02-17 00:05:24,What is your primary career goal in tech?,Cloud & DevOps Engineer,Europe,25-34
+RESP_0150,2026-02-08 11:47:03,Which programming language do you prefer?,Python,Asia-Pacific,18-24
+RESP_0150,2026-02-08 11:47:03,Which learning method do you prefer?,Reading Documentation & Books,Asia-Pacific,18-24
+RESP_0150,2026-02-08 11:47:03,Which development platform do you use most?,Cloud IDEs / GitHub Codespaces,Asia-Pacific,18-24
+RESP_0150,2026-02-08 11:47:03,What is your primary career goal in tech?,Data Science & AI Engineer,Asia-Pacific,18-24
+RESP_0151,2026-02-04 15:16:28,Which programming language do you prefer?,Python,Asia-Pacific,18-24
+RESP_0151,2026-02-04 15:16:28,Which learning method do you prefer?,Hands-on Projects,Asia-Pacific,18-24
+RESP_0151,2026-02-04 15:16:28,Which development platform do you use most?,JetBrains IDEs,Asia-Pacific,18-24
+RESP_0151,2026-02-04 15:16:28,What is your primary career goal in tech?,Cybersecurity Specialist,Asia-Pacific,18-24
+RESP_0152,2026-03-08 14:30:14,Which programming language do you prefer?,Rust,North America,25-34
+RESP_0152,2026-03-08 14:30:14,Which learning method do you prefer?,Video Courses & Tutorials,North America,25-34
+RESP_0152,2026-03-08 14:30:14,Which development platform do you use most?,VS Code,North America,25-34
+RESP_0152,2026-03-08 14:30:14,What is your primary career goal in tech?,Cloud & DevOps Engineer,North America,25-34
+RESP_0153,2026-02-13 23:25:01,Which programming language do you prefer?,TypeScript,Europe,55+
+RESP_0153,2026-02-13 23:25:01,Which learning method do you prefer?,Hands-on Projects,Europe,55+
+RESP_0153,2026-02-13 23:25:01,Which development platform do you use most?,VS Code,Europe,55+
+RESP_0153,2026-02-13 23:25:01,What is your primary career goal in tech?,Cybersecurity Specialist,Europe,55+
+RESP_0154,2026-03-26 04:41:14,Which programming language do you prefer?,Go,Asia-Pacific,25-34
+RESP_0154,2026-03-26 04:41:14,Which learning method do you prefer?,Hands-on Projects,Asia-Pacific,25-34
+RESP_0154,2026-03-26 04:41:14,Which development platform do you use most?,JetBrains IDEs,Asia-Pacific,25-34
+RESP_0154,2026-03-26 04:41:14,What is your primary career goal in tech?,Full-Stack Web Developer,Asia-Pacific,25-34
+RESP_0155,2026-02-02 07:34:08,Which programming language do you prefer?,Java,Asia-Pacific,18-24
+RESP_0155,2026-02-02 07:34:08,Which learning method do you prefer?,Interactive Coding Platforms,Asia-Pacific,18-24
+RESP_0155,2026-02-02 07:34:08,Which development platform do you use most?,Cloud IDEs / GitHub Codespaces,Asia-Pacific,18-24
+RESP_0155,2026-02-02 07:34:08,What is your primary career goal in tech?,Mobile App Developer,Asia-Pacific,18-24
+RESP_0156,2026-03-13 04:39:43,Which programming language do you prefer?,JavaScript,Asia-Pacific,35-44
+RESP_0156,2026-03-13 04:39:43,Which learning method do you prefer?,Video Courses & Tutorials,Asia-Pacific,35-44
+RESP_0156,2026-03-13 04:39:43,Which development platform do you use most?,VS Code,Asia-Pacific,35-44
+RESP_0156,2026-03-13 04:39:43,What is your primary career goal in tech?,Cloud & DevOps Engineer,Asia-Pacific,35-44
+RESP_0157,2026-02-27 22:43:49,Which programming language do you prefer?,JavaScript,Europe,18-24
+RESP_0157,2026-02-27 22:43:49,Which learning method do you prefer?,Hands-on Projects,Europe,18-24
+RESP_0157,2026-02-27 22:43:49,Which development platform do you use most?,Neovim / Vim,Europe,18-24
+RESP_0157,2026-02-27 22:43:49,What is your primary career goal in tech?,Cybersecurity Specialist,Europe,18-24
+RESP_0158,2026-02-09 05:02:02,Which programming language do you prefer?,Go,North America,18-24
+RESP_0158,2026-02-09 05:02:02,Which learning method do you prefer?,Reading Documentation & Books,North America,18-24
+RESP_0158,2026-02-09 05:02:02,Which development platform do you use most?,VS Code,North America,18-24
+RESP_0158,2026-02-09 05:02:02,What is your primary career goal in tech?,Cloud & DevOps Engineer,North America,18-24
+RESP_0159,2026-03-30 21:29:49,Which programming language do you prefer?,Python,North America,25-34
+RESP_0159,2026-03-30 21:29:49,Which learning method do you prefer?,Hands-on Projects,North America,25-34
+RESP_0159,2026-03-30 21:29:49,Which development platform do you use most?,VS Code,North America,25-34
+RESP_0159,2026-03-30 21:29:49,What is your primary career goal in tech?,Full-Stack Web Developer,North America,25-34
+RESP_0160,2026-01-20 05:21:11,Which programming language do you prefer?,Python,Middle East & Africa,55+
+RESP_0160,2026-01-20 05:21:11,Which learning method do you prefer?,Reading Documentation & Books,Middle East & Africa,55+
+RESP_0160,2026-01-20 05:21:11,Which development platform do you use most?,VS Code,Middle East & Africa,55+
+RESP_0160,2026-01-20 05:21:11,What is your primary career goal in tech?,Cybersecurity Specialist,Middle East & Africa,55+
+RESP_0161,2026-03-18 10:33:09,Which programming language do you prefer?,Python,Asia-Pacific,18-24
+RESP_0161,2026-03-18 10:33:09,Which learning method do you prefer?,Video Courses & Tutorials,Asia-Pacific,18-24
+RESP_0161,2026-03-18 10:33:09,Which development platform do you use most?,JetBrains IDEs,Asia-Pacific,18-24
+RESP_0161,2026-03-18 10:33:09,What is your primary career goal in tech?,Full-Stack Web Developer,Asia-Pacific,18-24
+RESP_0162,2026-03-30 09:40:32,Which programming language do you prefer?,Rust,Asia-Pacific,25-34
+RESP_0162,2026-03-30 09:40:32,Which learning method do you prefer?,Video Courses & Tutorials,Asia-Pacific,25-34
+RESP_0162,2026-03-30 09:40:32,Which development platform do you use most?,VS Code,Asia-Pacific,25-34
+RESP_0162,2026-03-30 09:40:32,What is your primary career goal in tech?,Cloud & DevOps Engineer,Asia-Pacific,25-34
+RESP_0163,2026-02-18 14:10:33,Which programming language do you prefer?,JavaScript,Middle East & Africa,18-24
+RESP_0163,2026-02-18 14:10:33,Which learning method do you prefer?,Hands-on Projects,Middle East & Africa,18-24
+RESP_0163,2026-02-18 14:10:33,Which development platform do you use most?,JetBrains IDEs,Middle East & Africa,18-24
+RESP_0163,2026-02-18 14:10:33,What is your primary career goal in tech?,Full-Stack Web Developer,Middle East & Africa,18-24
+RESP_0164,2026-03-17 14:12:55,Which programming language do you prefer?,JavaScript,Asia-Pacific,35-44
+RESP_0164,2026-03-17 14:12:55,Which learning method do you prefer?,Hands-on Projects,Asia-Pacific,35-44
+RESP_0164,2026-03-17 14:12:55,Which development platform do you use most?,Neovim / Vim,Asia-Pacific,35-44
+RESP_0164,2026-03-17 14:12:55,What is your primary career goal in tech?,Cybersecurity Specialist,Asia-Pacific,35-44
+RESP_0165,2026-01-25 19:02:08,Which programming language do you prefer?,Java,Europe,45-54
+RESP_0165,2026-01-25 19:02:08,Which learning method do you prefer?,Hands-on Projects,Europe,45-54
+RESP_0165,2026-01-25 19:02:08,Which development platform do you use most?,VS Code,Europe,45-54
+RESP_0165,2026-01-25 19:02:08,What is your primary career goal in tech?,Full-Stack Web Developer,Europe,45-54
+RESP_0166,2026-01-15 00:56:01,Which programming language do you prefer?,JavaScript,North America,18-24
+RESP_0166,2026-01-15 00:56:01,Which learning method do you prefer?,Reading Documentation & Books,North America,18-24
+RESP_0166,2026-01-15 00:56:01,Which development platform do you use most?,VS Code,North America,18-24
+RESP_0166,2026-01-15 00:56:01,What is your primary career goal in tech?,Cloud & DevOps Engineer,North America,18-24
+RESP_0167,2026-01-26 00:21:17,Which programming language do you prefer?,Java,Asia-Pacific,18-24
+RESP_0167,2026-01-26 00:21:17,Which learning method do you prefer?,Reading Documentation & Books,Asia-Pacific,18-24
+RESP_0167,2026-01-26 00:21:17,Which development platform do you use most?,JetBrains IDEs,Asia-Pacific,18-24
+RESP_0167,2026-01-26 00:21:17,What is your primary career goal in tech?,Cybersecurity Specialist,Asia-Pacific,18-24
+RESP_0168,2026-03-11 08:02:08,Which programming language do you prefer?,Python,North America,25-34
+RESP_0168,2026-03-11 08:02:08,Which learning method do you prefer?,Reading Documentation & Books,North America,25-34
+RESP_0168,2026-03-11 08:02:08,Which development platform do you use most?,VS Code,North America,25-34
+RESP_0168,2026-03-11 08:02:08,What is your primary career goal in tech?,Cloud & DevOps Engineer,North America,25-34
+RESP_0169,2026-01-31 10:32:26,Which programming language do you prefer?,Python,Europe,18-24
+RESP_0169,2026-01-31 10:32:26,Which learning method do you prefer?,Reading Documentation & Books,Europe,18-24
+RESP_0169,2026-01-31 10:32:26,Which development platform do you use most?,VS Code,Europe,18-24
+RESP_0169,2026-01-31 10:32:26,What is your primary career goal in tech?,Data Science & AI Engineer,Europe,18-24
+RESP_0170,2026-03-17 17:35:37,Which programming language do you prefer?,JavaScript,North America,18-24
+RESP_0170,2026-03-17 17:35:37,Which learning method do you prefer?,Mentorship & Study Groups,North America,18-24
+RESP_0170,2026-03-17 17:35:37,Which development platform do you use most?,VS Code,North America,18-24
+RESP_0170,2026-03-17 17:35:37,What is your primary career goal in tech?,Cloud & DevOps Engineer,North America,18-24
+RESP_0171,2026-03-21 15:09:05,Which programming language do you prefer?,Rust,Europe,25-34
+RESP_0171,2026-03-21 15:09:05,Which learning method do you prefer?,Interactive Coding Platforms,Europe,25-34
+RESP_0171,2026-03-21 15:09:05,Which development platform do you use most?,VS Code,Europe,25-34
+RESP_0171,2026-03-21 15:09:05,What is your primary career goal in tech?,Data Science & AI Engineer,Europe,25-34
+RESP_0172,2026-03-11 02:30:18,Which programming language do you prefer?,JavaScript,Asia-Pacific,18-24
+RESP_0172,2026-03-11 02:30:18,Which learning method do you prefer?,Video Courses & Tutorials,Asia-Pacific,18-24
+RESP_0172,2026-03-11 02:30:18,Which development platform do you use most?,Neovim / Vim,Asia-Pacific,18-24
+RESP_0172,2026-03-11 02:30:18,What is your primary career goal in tech?,Cloud & DevOps Engineer,Asia-Pacific,18-24
+RESP_0173,2026-03-01 02:48:18,Which programming language do you prefer?,JavaScript,North America,18-24
+RESP_0173,2026-03-01 02:48:18,Which learning method do you prefer?,Hands-on Projects,North America,18-24
+RESP_0173,2026-03-01 02:48:18,Which development platform do you use most?,VS Code,North America,18-24
+RESP_0173,2026-03-01 02:48:18,What is your primary career goal in tech?,Cloud & DevOps Engineer,North America,18-24
+RESP_0174,2026-02-12 21:39:54,Which programming language do you prefer?,Python,Asia-Pacific,25-34
+RESP_0174,2026-02-12 21:39:54,Which learning method do you prefer?,Video Courses & Tutorials,Asia-Pacific,25-34
+RESP_0174,2026-02-12 21:39:54,Which development platform do you use most?,VS Code,Asia-Pacific,25-34
+RESP_0174,2026-02-12 21:39:54,What is your primary career goal in tech?,Full-Stack Web Developer,Asia-Pacific,25-34
+RESP_0175,2026-01-15 01:55:17,Which programming language do you prefer?,Python,Asia-Pacific,18-24
+RESP_0175,2026-01-15 01:55:17,Which learning method do you prefer?,Interactive Coding Platforms,Asia-Pacific,18-24
+RESP_0175,2026-01-15 01:55:17,Which development platform do you use most?,JetBrains IDEs,Asia-Pacific,18-24
+RESP_0175,2026-01-15 01:55:17,What is your primary career goal in tech?,Data Science & AI Engineer,Asia-Pacific,18-24
+RESP_0176,2026-02-19 16:57:54,Which programming language do you prefer?,Java,Latin America,25-34
+RESP_0176,2026-02-19 16:57:54,Which learning method do you prefer?,Hands-on Projects,Latin America,25-34
+RESP_0176,2026-02-19 16:57:54,Which development platform do you use most?,VS Code,Latin America,25-34
+RESP_0176,2026-02-19 16:57:54,What is your primary career goal in tech?,Full-Stack Web Developer,Latin America,25-34
+RESP_0177,2026-01-31 01:21:58,Which programming language do you prefer?,Python,North America,25-34
+RESP_0177,2026-01-31 01:21:58,Which learning method do you prefer?,Hands-on Projects,North America,25-34
+RESP_0177,2026-01-31 01:21:58,Which development platform do you use most?,VS Code,North America,25-34
+RESP_0177,2026-01-31 01:21:58,What is your primary career goal in tech?,Data Science & AI Engineer,North America,25-34
+RESP_0178,2026-02-08 00:42:53,Which programming language do you prefer?,JavaScript,North America,35-44
+RESP_0178,2026-02-08 00:42:53,Which learning method do you prefer?,Hands-on Projects,North America,35-44
+RESP_0178,2026-02-08 00:42:53,Which development platform do you use most?,VS Code,North America,35-44
+RESP_0178,2026-02-08 00:42:53,What is your primary career goal in tech?,Data Science & AI Engineer,North America,35-44
+RESP_0179,2026-03-22 15:03:28,Which programming language do you prefer?,Java,Asia-Pacific,18-24
+RESP_0179,2026-03-22 15:03:28,Which learning method do you prefer?,Hands-on Projects,Asia-Pacific,18-24
+RESP_0179,2026-03-22 15:03:28,Which development platform do you use most?,VS Code,Asia-Pacific,18-24
+RESP_0179,2026-03-22 15:03:28,What is your primary career goal in tech?,Data Science & AI Engineer,Asia-Pacific,18-24
+RESP_0180,2026-03-19 22:17:17,Which programming language do you prefer?,TypeScript,Asia-Pacific,18-24
+RESP_0180,2026-03-19 22:17:17,Which learning method do you prefer?,Reading Documentation & Books,Asia-Pacific,18-24
+RESP_0180,2026-03-19 22:17:17,Which development platform do you use most?,JetBrains IDEs,Asia-Pacific,18-24
+RESP_0180,2026-03-19 22:17:17,What is your primary career goal in tech?,Mobile App Developer,Asia-Pacific,18-24
+RESP_0181,2026-02-08 07:05:09,Which programming language do you prefer?,Rust,North America,25-34
+RESP_0181,2026-02-08 07:05:09,Which learning method do you prefer?,Video Courses & Tutorials,North America,25-34
+RESP_0181,2026-02-08 07:05:09,Which development platform do you use most?,Neovim / Vim,North America,25-34
+RESP_0181,2026-02-08 07:05:09,What is your primary career goal in tech?,Data Science & AI Engineer,North America,25-34
+RESP_0182,2026-02-21 00:36:35,Which programming language do you prefer?,Rust,Middle East & Africa,25-34
+RESP_0182,2026-02-21 00:36:35,Which learning method do you prefer?,Hands-on Projects,Middle East & Africa,25-34
+RESP_0182,2026-02-21 00:36:35,Which development platform do you use most?,VS Code,Middle East & Africa,25-34
+RESP_0182,2026-02-21 00:36:35,What is your primary career goal in tech?,Full-Stack Web Developer,Middle East & Africa,25-34
+RESP_0183,2026-01-29 11:46:29,Which programming language do you prefer?,Python,North America,18-24
+RESP_0183,2026-01-29 11:46:29,Which learning method do you prefer?,Interactive Coding Platforms,North America,18-24
+RESP_0183,2026-01-29 11:46:29,Which development platform do you use most?,JetBrains IDEs,North America,18-24
+RESP_0183,2026-01-29 11:46:29,What is your primary career goal in tech?,Full-Stack Web Developer,North America,18-24
+RESP_0184,2026-03-03 11:40:06,Which programming language do you prefer?,Java,Europe,25-34
+RESP_0184,2026-03-03 11:40:06,Which learning method do you prefer?,Interactive Coding Platforms,Europe,25-34
+RESP_0184,2026-03-03 11:40:06,Which development platform do you use most?,VS Code,Europe,25-34
+RESP_0184,2026-03-03 11:40:06,What is your primary career goal in tech?,Full-Stack Web Developer,Europe,25-34
+RESP_0185,2026-02-18 15:16:20,Which programming language do you prefer?,TypeScript,Europe,25-34
+RESP_0185,2026-02-18 15:16:20,Which learning method do you prefer?,Video Courses & Tutorials,Europe,25-34
+RESP_0185,2026-02-18 15:16:20,Which development platform do you use most?,VS Code,Europe,25-34
+RESP_0185,2026-02-18 15:16:20,What is your primary career goal in tech?,Full-Stack Web Developer,Europe,25-34
+RESP_0186,2026-01-27 10:54:45,Which programming language do you prefer?,TypeScript,Europe,18-24
+RESP_0186,2026-01-27 10:54:45,Which learning method do you prefer?,Hands-on Projects,Europe,18-24
+RESP_0186,2026-01-27 10:54:45,Which development platform do you use most?,VS Code,Europe,18-24
+RESP_0186,2026-01-27 10:54:45,What is your primary career goal in tech?,Full-Stack Web Developer,Europe,18-24
+RESP_0187,2026-03-18 00:13:18,Which programming language do you prefer?,Java,Asia-Pacific,18-24
+RESP_0187,2026-03-18 00:13:18,Which learning method do you prefer?,Video Courses & Tutorials,Asia-Pacific,18-24
+RESP_0187,2026-03-18 00:13:18,Which development platform do you use most?,JetBrains IDEs,Asia-Pacific,18-24
+RESP_0187,2026-03-18 00:13:18,What is your primary career goal in tech?,Data Science & AI Engineer,Asia-Pacific,18-24
+RESP_0188,2026-03-25 07:01:14,Which programming language do you prefer?,JavaScript,Middle East & Africa,25-34
+RESP_0188,2026-03-25 07:01:14,Which learning method do you prefer?,Hands-on Projects,Middle East & Africa,25-34
+RESP_0188,2026-03-25 07:01:14,Which development platform do you use most?,VS Code,Middle East & Africa,25-34
+RESP_0188,2026-03-25 07:01:14,What is your primary career goal in tech?,Cloud & DevOps Engineer,Middle East & Africa,25-34
+RESP_0189,2026-03-11 18:13:40,Which programming language do you prefer?,Go,Asia-Pacific,18-24
+RESP_0189,2026-03-11 18:13:40,Which learning method do you prefer?,Video Courses & Tutorials,Asia-Pacific,18-24
+RESP_0189,2026-03-11 18:13:40,Which development platform do you use most?,VS Code,Asia-Pacific,18-24
+RESP_0189,2026-03-11 18:13:40,What is your primary career goal in tech?,Data Science & AI Engineer,Asia-Pacific,18-24
+RESP_0190,2026-03-21 21:46:28,Which programming language do you prefer?,JavaScript,Asia-Pacific,18-24
+RESP_0190,2026-03-21 21:46:28,Which learning method do you prefer?,Video Courses & Tutorials,Asia-Pacific,18-24
+RESP_0190,2026-03-21 21:46:28,Which development platform do you use most?,VS Code,Asia-Pacific,18-24
+RESP_0190,2026-03-21 21:46:28,What is your primary career goal in tech?,Data Science & AI Engineer,Asia-Pacific,18-24
+RESP_0191,2026-02-24 05:40:41,Which programming language do you prefer?,Rust,Asia-Pacific,25-34
+RESP_0191,2026-02-24 05:40:41,Which learning method do you prefer?,Mentorship & Study Groups,Asia-Pacific,25-34
+RESP_0191,2026-02-24 05:40:41,Which development platform do you use most?,Cloud IDEs / GitHub Codespaces,Asia-Pacific,25-34
+RESP_0191,2026-02-24 05:40:41,What is your primary career goal in tech?,Data Science & AI Engineer,Asia-Pacific,25-34
+RESP_0192,2026-02-12 02:02:06,Which programming language do you prefer?,Python,Asia-Pacific,35-44
+RESP_0192,2026-02-12 02:02:06,Which learning method do you prefer?,Reading Documentation & Books,Asia-Pacific,35-44
+RESP_0192,2026-02-12 02:02:06,Which development platform do you use most?,VS Code,Asia-Pacific,35-44
+RESP_0192,2026-02-12 02:02:06,What is your primary career goal in tech?,Full-Stack Web Developer,Asia-Pacific,35-44
+RESP_0193,2026-02-15 20:57:46,Which programming language do you prefer?,JavaScript,Middle East & Africa,25-34
+RESP_0193,2026-02-15 20:57:46,Which learning method do you prefer?,Hands-on Projects,Middle East & Africa,25-34
+RESP_0193,2026-02-15 20:57:46,Which development platform do you use most?,VS Code,Middle East & Africa,25-34
+RESP_0193,2026-02-15 20:57:46,What is your primary career goal in tech?,Cloud & DevOps Engineer,Middle East & Africa,25-34
+RESP_0194,2026-02-06 18:50:02,Which programming language do you prefer?,Java,Asia-Pacific,18-24
+RESP_0194,2026-02-06 18:50:02,Which learning method do you prefer?,Hands-on Projects,Asia-Pacific,18-24
+RESP_0194,2026-02-06 18:50:02,Which development platform do you use most?,JetBrains IDEs,Asia-Pacific,18-24
+RESP_0194,2026-02-06 18:50:02,What is your primary career goal in tech?,Full-Stack Web Developer,Asia-Pacific,18-24
+RESP_0195,2026-03-06 02:59:43,Which programming language do you prefer?,JavaScript,Asia-Pacific,18-24
+RESP_0195,2026-03-06 02:59:43,Which learning method do you prefer?,Video Courses & Tutorials,Asia-Pacific,18-24
+RESP_0195,2026-03-06 02:59:43,Which development platform do you use most?,VS Code,Asia-Pacific,18-24
+RESP_0195,2026-03-06 02:59:43,What is your primary career goal in tech?,Full-Stack Web Developer,Asia-Pacific,18-24
+RESP_0196,2026-01-25 11:19:21,Which programming language do you prefer?,Python,Europe,18-24
+RESP_0196,2026-01-25 11:19:21,Which learning method do you prefer?,Hands-on Projects,Europe,18-24
+RESP_0196,2026-01-25 11:19:21,Which development platform do you use most?,VS Code,Europe,18-24
+RESP_0196,2026-01-25 11:19:21,What is your primary career goal in tech?,Mobile App Developer,Europe,18-24
+RESP_0197,2026-03-29 01:57:02,Which programming language do you prefer?,Python,Europe,35-44
+RESP_0197,2026-03-29 01:57:02,Which learning method do you prefer?,Video Courses & Tutorials,Europe,35-44
+RESP_0197,2026-03-29 01:57:02,Which development platform do you use most?,Cloud IDEs / GitHub Codespaces,Europe,35-44
+RESP_0197,2026-03-29 01:57:02,What is your primary career goal in tech?,Cloud & DevOps Engineer,Europe,35-44
+RESP_0198,2026-01-17 16:37:04,Which programming language do you prefer?,JavaScript,Europe,25-34
+RESP_0198,2026-01-17 16:37:04,Which learning method do you prefer?,Mentorship & Study Groups,Europe,25-34
+RESP_0198,2026-01-17 16:37:04,Which development platform do you use most?,JupyterLab / Notebooks,Europe,25-34
+RESP_0198,2026-01-17 16:37:04,What is your primary career goal in tech?,Data Science & AI Engineer,Europe,25-34
+RESP_0199,2026-03-23 17:22:49,Which programming language do you prefer?,Python,Asia-Pacific,18-24
+RESP_0199,2026-03-23 17:22:49,Which learning method do you prefer?,Interactive Coding Platforms,Asia-Pacific,18-24
+RESP_0199,2026-03-23 17:22:49,Which development platform do you use most?,Neovim / Vim,Asia-Pacific,18-24
+RESP_0199,2026-03-23 17:22:49,What is your primary career goal in tech?,Data Science & AI Engineer,Asia-Pacific,18-24
+RESP_0200,2026-01-26 16:21:49,Which programming language do you prefer?,JavaScript,North America,35-44
+RESP_0200,2026-01-26 16:21:49,Which learning method do you prefer?,Interactive Coding Platforms,North America,35-44
+RESP_0200,2026-01-26 16:21:49,Which development platform do you use most?,JetBrains IDEs,North America,35-44
+RESP_0200,2026-01-26 16:21:49,What is your primary career goal in tech?,Full-Stack Web Developer,North America,35-44
