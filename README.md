@@ -227,17 +227,22 @@ python generate_data.py --respondents 100 --seed 123 --noise --output data/noisy
 
 ---
 
-## 📸 Screenshots
+## 📸 Dashboard Screenshots
 
-*(To capture your own screenshots for your portfolio, follow the guide in [screenshots/README.md](screenshots/README.md).)*
+### 1. Response Frequency & Percentage Distribution
+![Response Distribution](screenshots/01_response_distribution.png)
 
-| Overview & KPI Cards | Demographic Segmentation |
-|:---:|:---:|
-| `[Screenshot 1: Dashboard Overview]` | `[Screenshot 2: Demographic Breakdown]` |
+### 2. Demographic & Segment Cross-Tabulation
+![Demographic Segments](screenshots/02_demographic_segments.png)
 
-| Evidence-Based Insights | Column Mapping Interface |
-|:---:|:---:|
-| `[Screenshot 3: Automated Insights]` | `[Screenshot 4: Column Mapper]` |
+### 3. Submission Timeline Trends
+![Timeline Trends](screenshots/03_timeline_trends.png)
+
+### 4. Evidence-Based Automated Insights
+![Automated Insights](screenshots/04_automated_insights.png)
+
+### 5. Filtered Response Records Table
+![Response Records Table](screenshots/05_response_table.png)
 
 ---
 

@@ -1,38 +1,27 @@
-# Dashboard Screenshots Guide
+# Dashboard Screenshots Gallery
 
-This directory holds screenshots demonstrating key views of the **Poll Results Visualizer** for portfolio presentation, GitHub README showcase, and internship applications.
+This directory contains live, high-resolution screenshots of the **Poll Results Visualizer** web application in dark mode.
 
 ---
 
-## Recommended Screenshot Views
+## Captured Views
 
-To give recruiters and interviewers an immediate visual impression of your work, capture the following 4 screenshots:
-
-1. **`01_dashboard_overview.png`**
-   - **View:** Top section of the dashboard showing the Title, Dataset badge, KPI metric cards, and Response Breakdown bar chart.
-   - **Purpose:** Demonstrates visual hierarchy, clean metrics layout, and interactive Plotly charting.
+1. **`01_response_distribution.png`**
+   - **View:** "Response Distribution" tab showing KPI metric cards, frequency bar chart, and answer share donut chart for AI development tools.
+   - **File:** `screenshots/01_response_distribution.png`
 
 2. **`02_demographic_segments.png`**
-   - **View:** "Demographic Segments" tab showing the grouped bar chart comparing answer preferences across Regions or Age Groups alongside the data table.
-   - **Purpose:** Highlights cross-tabulated analytics and demographic segmentation skills.
+   - **View:** "Demographic Segments" tab showing cross-tabulated regional comparisons and share tables across Europe, Asia-Pacific, North America, etc.
+   - **File:** `screenshots/02_demographic_segments.png`
 
-3. **`03_automated_insights.png`**
-   - **View:** "Automated Insights" tab displaying the primary finding card, regional highlights, statistical sample cautions, and methodological limitation disclaimer.
-   - **Purpose:** Proves that the application derives evidence-based business insights and understands data integrity.
+3. **`03_timeline_trends.png`**
+   - **View:** "Timeline Trends" tab displaying daily submission volume velocity area chart.
+   - **File:** `screenshots/03_timeline_trends.png`
 
-4. **`04_column_mapping_tool.png`**
-   - **View:** The sidebar with the "Column Mapping Tool" expanded showing how non-standard or Google Forms headers map to the standard schema.
-   - **Purpose:** Shows defensive programming and UX consideration for messy user files.
+4. **`04_automated_insights.png`**
+   - **View:** "Automated Insights" tab highlighting primary findings, margin of victory, regional divergence, and data limitation notices.
+   - **File:** `screenshots/04_automated_insights.png`
 
----
-
-## How to Capture and Save
-
-1. Start the Streamlit application:
-   ```bash
-   streamlit run app.py
-   ```
-2. Open your browser at `http://localhost:8501`.
-3. Use Windows Snipping Tool (`Win + Shift + S`) or browser developer tools to take clean, high-resolution snapshots.
-4. Save the images into this `screenshots/` directory using the filenames listed above.
-5. In `README.md`, update the screenshot image links to display your captured views.
+5. **`05_response_table.png`**
+   - **View:** "Response Table" tab presenting cleaned, standardized survey records.
+   - **File:** `screenshots/05_response_table.png`
